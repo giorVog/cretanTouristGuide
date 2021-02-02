@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/cretanTouristGuide/static/css/main.a812dc08.chunk.css",
+    "main.js": "/cretanTouristGuide/static/js/main.b3a455b6.chunk.js",
+    "main.js.map": "/cretanTouristGuide/static/js/main.b3a455b6.chunk.js.map",
+    "runtime-main.js": "/cretanTouristGuide/static/js/runtime-main.e81bd814.js",
+    "runtime-main.js.map": "/cretanTouristGuide/static/js/runtime-main.e81bd814.js.map",
+    "static/js/2.d88cf159.chunk.js": "/cretanTouristGuide/static/js/2.d88cf159.chunk.js",
+    "static/js/2.d88cf159.chunk.js.map": "/cretanTouristGuide/static/js/2.d88cf159.chunk.js.map",
+    "index.html": "/cretanTouristGuide/index.html",
+    "precache-manifest.9318be51ff74062c342a9af136c4f38d.js": "/cretanTouristGuide/precache-manifest.9318be51ff74062c342a9af136c4f38d.js",
+    "service-worker.js": "/cretanTouristGuide/service-worker.js",
+    "static/css/main.a812dc08.chunk.css.map": "/cretanTouristGuide/static/css/main.a812dc08.chunk.css.map",
+    "static/js/2.d88cf159.chunk.js.LICENSE.txt": "/cretanTouristGuide/static/js/2.d88cf159.chunk.js.LICENSE.txt",
+    "static/media/Ag.Nikolaos.jpg": "/cretanTouristGuide/static/media/Ag.Nikolaos.6ddd03f3.jpg",
+    "static/media/Chania.jpg": "/cretanTouristGuide/static/media/Chania.da3d9d72.jpg",
+    "static/media/Heraklion.png": "/cretanTouristGuide/static/media/Heraklion.80d8fc97.png",
+    "static/media/me.png": "/cretanTouristGuide/static/media/me.2bb6673b.png",
+    "static/media/rethymno.png": "/cretanTouristGuide/static/media/rethymno.2552297b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e81bd814.js",
+    "static/js/2.d88cf159.chunk.js",
+    "static/css/main.a812dc08.chunk.css",
+    "static/js/main.b3a455b6.chunk.js"
+  ]
+}
