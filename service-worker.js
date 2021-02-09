@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cretanTouristGuide/precache-manifest.9318be51ff74062c342a9af136c4f38d.js"
+  "/cretanTouristGuide/precache-manifest.efbf58f582fcf08925f92ab5af0c5245.js"
 );
 
 self.addEventListener('message', (event) => {
