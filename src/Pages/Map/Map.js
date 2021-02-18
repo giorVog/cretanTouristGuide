@@ -1,4 +1,4 @@
-import React, { useState, useCallback } from "react"
+import React, { useState, useCallback, useEffect, useMemo } from "react"
 import GoogleMapReact from "google-map-react"
 import Marker from "./Marker"
 import "./map.css"
@@ -9,6 +9,7 @@ import barsPOI from "../../assets/POI/bars.json"
 import coffeesPOI from "../../assets/POI/coffees.json"
 
 import MySelect from "../../components/MySelect"
+import PoiInfoList from "./PoiInfoList"
 
 const GOOGLE_MAP_KEY = "AIzaSyCdB68ioVna9Y-IRSRCWZ9UzQ8CAolJXe0"
 
@@ -83,13 +84,42 @@ const cityLocations = {
 const SimpleMap = () => {
   const [markerKeyClicked, setMarkerKeyClicked] = useState()
   const [selectedCity, setSelectedCity] = useState("DEFAULT")
-  const [selectedPOI, setSelectedPOI] = useState("DEFAULT")
+  const [selectedCategory, setSelectedCategory] = useState("DEFAULT")
+  const [selectedPOI, setSelectedPOI] = useState()
+  const [mapFocus, setMapFocus] = useState({
+    center: cityLocations[selectedCity].center,
+    zoom: cityLocations[selectedCity].zoom
+  })
 
   const onChildClickCallback = useCallback((key) => {
     setMarkerKeyClicked(key)
   }, [])
 
-  const POI = getPOIPlaces(selectedPOI)
+  const POI = useMemo(
+    () =>
+      getPOIPlaces(selectedCategory).filter(
+        (poi) => poi.city === selectedCity || selectedCity === "DEFAULT"
+      ),
+    [selectedCategory, selectedCity]
+  )
+
+  useEffect(() => {
+    setMapFocus({
+      center: cityLocations[selectedCity].center,
+      zoom: cityLocations[selectedCity].zoom
+    })
+  }, [selectedCity])
+
+  useEffect(() => {
+    if (selectedPOI) {
+      setMapFocus({
+        center: { lat: selectedPOI.lat, lng: selectedPOI.lng },
+        zoom: 20
+      })
+      setMarkerKeyClicked(`${selectedPOI.type}_${selectedPOI.id}`)
+    }
+  }, [selectedPOI])
+
   return (
     <div className="mapPage">
       <div className="map__filters">
@@ -102,18 +132,19 @@ const SimpleMap = () => {
         />
         <MySelect
           options={poiOptions}
-          onChange={setSelectedPOI}
+          onChange={setSelectedCategory}
           name="Category"
-          value={selectedPOI}
+          value={selectedCategory}
         />
+        <PoiInfoList list={POI} onPoiClick={setSelectedPOI} />
       </div>
       <div className="map__wrapper">
         <GoogleMapReact
           bootstrapURLKeys={{ key: GOOGLE_MAP_KEY }}
           defaultCenter={cityLocations.DEFAULT.center}
           defaultZoom={cityLocations.DEFAULT.zoom}
-          center={cityLocations[selectedCity].center}
-          zoom={cityLocations[selectedCity].zoom}
+          center={mapFocus.center}
+          zoom={mapFocus.zoom}
           onClick={() => setMarkerKeyClicked(undefined)}
           onChildClick={onChildClickCallback}>
           {POI.map((poi) => {
@@ -133,5 +164,4 @@ const SimpleMap = () => {
     </div>
   )
 }
-
 export default SimpleMap
