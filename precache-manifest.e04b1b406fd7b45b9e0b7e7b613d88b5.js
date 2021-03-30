@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0772009e744050b4edff42465b36654c",
+    "revision": "f3a8913ca0fdf6a22f811ce1be52207a",
     "url": "/cretanTouristGuide/index.html"
   },
   {
-    "revision": "0be24c10b1e44e811a88",
-    "url": "/cretanTouristGuide/static/css/main.af649bcd.chunk.css"
+    "revision": "1bf200f24cd34c3b09b1",
+    "url": "/cretanTouristGuide/static/css/main.765d4573.chunk.css"
   },
   {
-    "revision": "007d09a4ea24030d8dbd",
-    "url": "/cretanTouristGuide/static/js/2.6c0f2440.chunk.js"
+    "revision": "0f9abb98318c02884615",
+    "url": "/cretanTouristGuide/static/js/2.a0e46cb8.chunk.js"
   },
   {
     "revision": "5e9b6f5c16b720e8a86875f97734673e",
-    "url": "/cretanTouristGuide/static/js/2.6c0f2440.chunk.js.LICENSE.txt"
+    "url": "/cretanTouristGuide/static/js/2.a0e46cb8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0be24c10b1e44e811a88",
-    "url": "/cretanTouristGuide/static/js/main.da32c851.chunk.js"
+    "revision": "1bf200f24cd34c3b09b1",
+    "url": "/cretanTouristGuide/static/js/main.922ab8d3.chunk.js"
   },
   {
     "revision": "9dbfd1c162e358084691",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cretanTouristGuide/static/media/Ag.Nikolaos.6ddd03f3.jpg"
   },
   {
-    "revision": "da3d9d72d64633f0967d4ab317017c2c",
-    "url": "/cretanTouristGuide/static/media/Chania.da3d9d72.jpg"
+    "revision": "e1c3dd731a308519d1339ae1ef8bcc65",
+    "url": "/cretanTouristGuide/static/media/Chania.e1c3dd73.jpg"
   },
   {
     "revision": "80d8fc97ef675e20909a8d5ae097ec7a",
