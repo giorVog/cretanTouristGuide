@@ -7,6 +7,9 @@ import restaurantsPOI from "../../assets/POI/restaurants.json"
 import culturePOI from "../../assets/POI/culture.json"
 import barsPOI from "../../assets/POI/bars.json"
 import coffeesPOI from "../../assets/POI/coffees.json"
+import beachesPOI from "../../assets/POI/beaches.json"
+import hotelsPOI from "../../assets/POI/hotels.json"
+import airportsPOI from "../../assets/POI/airports.json"
 
 import MySelect from "../../components/MySelect"
 import PoiInfoList from "./PoiInfoList"
@@ -18,14 +21,20 @@ const poiOptions = [
   { value: "RESTAURANT", label: "Εστιατόρια" },
   { value: "CULTURE", label: "Πολιτιστικά" },
   { value: "BAR", label: "Μπαρ" },
-  { value: "COFFEE", label: "Καφέ" }
+  { value: "COFFEE", label: "Καφέ" },
+  { value: "BEACH", label: "Παραλίες"},
+  { value: "HOTEL", label: "Ξενοδοχεία"},
+  { value: "AIRPORT", label: "Αεροδρόμια"}
 ]
 
 const poiInfo = {
   RESTAURANT: restaurantsPOI,
   CULTURE: culturePOI,
   BAR: barsPOI,
-  COFFEE: coffeesPOI
+  COFFEE: coffeesPOI,
+  BEACH: beachesPOI,
+  HOTEL: hotelsPOI,
+  AIRPORT: airportsPOI
 }
 
 function getPOIPlaces(POI) {
