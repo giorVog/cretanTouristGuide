@@ -4,12 +4,20 @@ import cultureMarker from "../../../assets/markers/culture.png"
 import restaurantMarker from "../../../assets/markers/restaurant.png"
 import barMarker from "../../../assets/markers/bar.png"
 import coffeeMarker from "../../../assets/markers/coffee.png"
+import beachMarker from "../../../assets/markers/beach.png"
+import hotelMarker from "../../../assets/markers/hotel.png"
+import airportMarker from "../../../assets/markers/airport.png"
+
+import ShowMoreText from "react-show-more-text"
 
 const MARKER_ICONS = {
   CULTURE: cultureMarker,
   RESTAURANT: restaurantMarker,
-  BARS: barMarker,
-  COFFEE: coffeeMarker
+  BAR: barMarker,
+  COFFEE: coffeeMarker,
+  BEACH: beachMarker,
+  HOTEL: hotelMarker,
+  AIRPORT: airportMarker
 }
 
 const Balloon = ({ marker }) => (
@@ -17,7 +25,14 @@ const Balloon = ({ marker }) => (
     <div className="marker_ballonName">
       <strong>{marker.name}</strong>
     </div>
-    <div className="marker_ballobDesc">{marker.desc}</div>
+      <ShowMoreText
+        lines={2}
+        more="Show More"
+        less="Show Less"
+        expanded={false}>
+        {marker.desc}
+        </ShowMoreText>
+    
     <div className="marker_link_wrapper">
       Για περισσοτερες πληροφοριες
       <a href={marker.link} target="_blank" rel="noopener noreferrer">
