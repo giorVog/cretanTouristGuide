@@ -5,7 +5,7 @@ import Pages from "./Pages"
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Pages />
     </Router>
   )
