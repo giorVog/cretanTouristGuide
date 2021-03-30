@@ -1,14 +1,10 @@
 import React from "react"
 import Slider from "react-slick"
 
-import RethPhoto from "../../assets/cities/Rethymno.png"
-import HerPhoto from "../../assets/cities/Heraklion.png"
-import ChqPhoto from "../../assets/cities/Chania.jpg"
-import AGNPhoto from "../../assets/cities/Ag.Nikolaos.jpg"
-
 import next from "../../assets/slider/next.png"
 import prev from "../../assets/slider/back.png"
 
+import galleryItems from "./homeGallery.json"
 import "../../assets/slider/slick.css"
 import "../../assets/slider/slick-theme.css"
 import "./home.css"
@@ -26,25 +22,6 @@ const sliderConfig = {
   prevArrow: <img src={prev} alt="previous_photo" />
 }
 
-const products = [
-  {
-    image: RethPhoto,
-    title: "Ρέθυμνο"
-  },
-  {
-    image: HerPhoto,
-    title: "Ηράκλειο"
-  },
-  {
-    image: ChqPhoto,
-    title: "Χανιά"
-  },
-  {
-    image: AGNPhoto,
-    title: "Άγιος Νικόλαος"
-  }
-]
-
 function App() {
   return (
     <div className="Home">
@@ -53,12 +30,16 @@ function App() {
       </h1>
       <div className="Home__sliderWrapper">
         <Slider {...sliderConfig}>
-          {products.map((x, i) => {
+          {galleryItems.map((item) => {
             return (
-              <div key={i} className="img-card">
-                <img className="img" src={x.image} alt="sgewhh" />
+              <div key={item.id} className="img-card">
+                <img
+                  className="img"
+                  src={`${process.env.PUBLIC_URL}/images/HomeGallery/${item.image}`}
+                  alt="sgewhh"
+                />
                 <div className="card-body">
-                  <div className="card-title">{x.title}</div>
+                  <div className="card-title">{item.title}</div>
                 </div>
               </div>
             )

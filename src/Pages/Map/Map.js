@@ -13,6 +13,7 @@ import airportsPOI from "../../assets/POI/airports.json"
 
 import MySelect from "../../components/MySelect"
 import PoiInfoList from "./PoiInfoList"
+import { useLocation } from "react-router"
 
 const GOOGLE_MAP_KEY = "AIzaSyCdB68ioVna9Y-IRSRCWZ9UzQ8CAolJXe0"
 
@@ -22,9 +23,9 @@ const poiOptions = [
   { value: "CULTURE", label: "Πολιτιστικά" },
   { value: "BAR", label: "Μπαρ" },
   { value: "COFFEE", label: "Καφέ" },
-  { value: "BEACH", label: "Παραλίες"},
-  { value: "HOTEL", label: "Ξενοδοχεία"},
-  { value: "AIRPORT", label: "Αεροδρόμια"}
+  { value: "BEACH", label: "Παραλίες" },
+  { value: "HOTEL", label: "Ξενοδοχεία" },
+  { value: "AIRPORT", label: "Αεροδρόμια" }
 ]
 
 const poiInfo = {
@@ -91,8 +92,17 @@ const cityLocations = {
 }
 
 const SimpleMap = () => {
+  const location = useLocation()
+  const query = new URLSearchParams(location.search)
+  const selectedCityFromURL = query.get("selectedCity")
+  const isSelectedCityValid = cityOptions.some(
+    (opt) => opt.value === selectedCityFromURL
+  )
+
   const [markerKeyClicked, setMarkerKeyClicked] = useState()
-  const [selectedCity, setSelectedCity] = useState("DEFAULT")
+  const [selectedCity, setSelectedCity] = useState(
+    isSelectedCityValid ? selectedCityFromURL : "DEFAULT"
+  )
   const [selectedCategory, setSelectedCategory] = useState("DEFAULT")
   const [selectedPOI, setSelectedPOI] = useState()
   const [mapFocus, setMapFocus] = useState({

@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react"
+import React, { useEffect, useState, Fragment } from "react"
 import { makeStyles } from "@material-ui/core/styles"
 import List from "@material-ui/core/List"
 import ListItem from "@material-ui/core/ListItem"
@@ -53,7 +53,7 @@ export default function PoiInfoList(props) {
           <Alert severity="warning">Δε βρέθηκαν αποτελέσματα</Alert>
         ) : (
           items.map((poi, index) => (
-            <>
+            <Fragment key={index}>
               <ListItem
                 alignItems="flex-start"
                 button
@@ -72,7 +72,7 @@ export default function PoiInfoList(props) {
                 <ListItemText
                   primary={poi.name}
                   secondary={
-                    <React.Fragment>
+                    <Fragment>
                       <Typography
                         component="span"
                         variant="body2"
@@ -90,19 +90,22 @@ export default function PoiInfoList(props) {
                       {poi.link && (
                         <>
                           Visit Site{" "}
-                          <a href={poi.link} target="_blank">
+                          <a
+                            href={poi.link}
+                            target="_blank"
+                            rel="noopener noreferrer">
                             here
                           </a>
                         </>
                       )}
-                    </React.Fragment>
+                    </Fragment>
                   }
                 />
               </ListItem>
               {index < list.length - 1 && (
                 <Divider variant="inset" component="li" />
               )}
-            </>
+            </Fragment>
           ))
         )}
       </List>
