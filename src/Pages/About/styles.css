@@ -16,7 +16,13 @@
     align-items: center;
 }
 
-.bot {
+.info_wrapper {
+    margin-top: 100px;
+    display: flex;
+}
+
+.info_section {
+    width: 50%;
     font-size: 25px;
     font-weight: bold;
 }
