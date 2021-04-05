@@ -8,7 +8,8 @@
     "desc": "Το Μουσείο Φυσικής Ιστορίας Κρήτης (ΜΦΙΚ) του Πανεπιστημίου Κρήτης ιδρύθηκε τον Δεκέμβριο του 1980 με προεδρικό διάταγμα στα πλαίσια της Σχολής Θετικών Επιστημών του Πανεπιστημίου Κρήτης. Εδρεύει στο Ηράκλειο Κρήτης. ",
     "address": "Κόλπος Δερματά, Λεωφ. Σοφοκλή Βενιζέλου",
     "city": "HER",
-    "link": "https://www.nhmc.uoc.gr/"
+    "link": "https://www.nhmc.uoc.gr/",
+    "image":""
     
   },
   {
@@ -20,7 +21,8 @@
     "desc": "ο μινωικό ανάκτορο είναι ο κύριος επισκέψιμος χώρος της Κνωσού (ή Κνωσσού), σημαντικής πόλης κατά την αρχαιότητα, με συνεχή ζωή από τα νεολιθικά χρόνια έως τον 5ο αι. Είναι χτισμένο στο λόφο της Κεφάλας, με εύκολη πρόσβαση στη θάλασσα αλλά και στο εσωτερικό της Κρήτης. Κατά την παράδοση, υπήρξε η έδρα του σοφού βασιλιά Μίνωα. Συναρπαστικοί μύθοι, του Λαβύρινθου με το Μινώταυρο και του Δαίδαλου με τον Ίκαρο, συνδέονται με το ανάκτορο της Κνωσσού.",
     "address": "Κνωσσός",
     "city": "HER",
-    "link": "https://www.gtp.gr/TDirectoryDetails.asp?ID=14729&lng=1"
+    "link": "https://www.gtp.gr/TDirectoryDetails.asp?ID=14729&lng=1",
+    "image":""
   },
   {
     "id": 3,
@@ -31,7 +33,8 @@
     "desc": "Το Αρχαιολογικό Μουσείο Ηρακλείου είναι το μουσείο στο οποίο παρουσιάζεται σχεδόν στο σύνολό του ο μινωικός πολιτισμός. Είναι από τα μεγαλύτερα και πιο αξιόλογα μουσεία στην Ελλάδα και ένα από τα σημαντικότερα στην Ευρώπη",
     "address": " Ξανθουδίδη και Χατζηδάκη 1",
     "city": "HER",
-    "link": "https://www.archaiologia.gr/blog/photo/%CE%B1%CF%81%CF%87%CE%B1%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CF%8C-%CE%BC%CE%BF%CF%85%CF%83%CE%B5%CE%AF%CE%BF-%CE%B7%CF%81%CE%B1%CE%BA%CE%BB%CE%B5%CE%AF%CE%BF%CF%85/"
+    "link": "https://www.archaiologia.gr/blog/photo/%CE%B1%CF%81%CF%87%CE%B1%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CF%8C-%CE%BC%CE%BF%CF%85%CF%83%CE%B5%CE%AF%CE%BF-%CE%B7%CF%81%CE%B1%CE%BA%CE%BB%CE%B5%CE%AF%CE%BF%CF%85/",
+    "image":""
   },
   {
     "id": 4,
@@ -42,7 +45,8 @@
     "desc":  "Ο επιβλητικός ναός του Αγίου Μηνά χτίστηκε το 1862 και συμβολίζει την ευγνωμοσύνη των Ηρακλειωτών στον Άγιο, για την προστασία που τους προσέφερε κατά την περίοδο της τουρκοκρατίας.",
     "address": " Αγίου Μήνα",
     "city": "HER",
-    "link": "https://el.wikipedia.org/wiki/%CE%9A%CE%B1%CE%B8%CE%B5%CE%B4%CF%81%CE%B9%CE%BA%CF%8C%CF%82_%CE%9D%CE%B1%CF%8C%CF%82_%CE%91%CE%B3%CE%AF%CE%BF%CF%85_%CE%9C%CE%B7%CE%BD%CE%AC"
+    "link": "https://el.wikipedia.org/wiki/%CE%9A%CE%B1%CE%B8%CE%B5%CE%B4%CF%81%CE%B9%CE%BA%CF%8C%CF%82_%CE%9D%CE%B1%CF%8C%CF%82_%CE%91%CE%B3%CE%AF%CE%BF%CF%85_%CE%9C%CE%B7%CE%BD%CE%AC",
+    "image":""
   },
   {
     "id": 5,
@@ -53,7 +57,8 @@
     "desc": "Ο ναός του Αγίου Τίτου είναι ορθόδοξη εκκλησία στο Ηράκλειο, Κρήτη, αφιερωμένη στον Άγιο Τίτο. Ο σημερινός ναός κατασκευάστηκε το 1869 ως Γενί Τζαμί και το 1925 αποδόθηκε στη χριστιανική λατρεία. Ο ναός ανακηρύχθηκε το 2013 καθεδρικός ναός της αρχιεπισκοπής Κρήτης.",
     "address": " Πλατεία Αγίου Τίτου",
     "city": "HER",
-    "link": "https://el.wikipedia.org/wiki/%CE%9D%CE%B1%CF%8C%CF%82_%CF%84%CE%BF%CF%85_%CE%91%CE%B3%CE%AF%CE%BF%CF%85_%CE%A4%CE%AF%CF%84%CE%BF%CF%85_(%CE%97%CF%81%CE%AC%CE%BA%CE%BB%CE%B5%CE%B9%CE%BF)"
+    "link": "https://el.wikipedia.org/wiki/%CE%9D%CE%B1%CF%8C%CF%82_%CF%84%CE%BF%CF%85_%CE%91%CE%B3%CE%AF%CE%BF%CF%85_%CE%A4%CE%AF%CF%84%CE%BF%CF%85_(%CE%97%CF%81%CE%AC%CE%BA%CE%BB%CE%B5%CE%B9%CE%BF)",
+    "image":""
   },
   {
     "id": 6,
@@ -64,7 +69,8 @@
     "desc": "Στην αρχή του δυτικού λιμενοβραχίονα του Ηρακλειώτικου λιμανιού στέκει ακόμη επιβλητικό το μεσαιωνικό φρούριο Κούλες. Το πραγματικό του όνομα είναι Rocca al Mare, όπως το ονόμασαν οι ιδρυτές του Ενετοί.",
     "address": "Ηράκλειο ",
     "city": "HER",
-    "link": "http://koules.efah.gr/koules/Page?name=index&lang=gr"
+    "link": "http://koules.efah.gr/koules/Page?name=index&lang=gr",
+    "image":""
   },
   {
     "id": 7,
@@ -75,7 +81,8 @@
     "desc": "Ο τάφος του σπουδαιότερου Κρητικού συγγραφέα Νίκου Καζαντζάκη (1883-1957) βρίσκεται στο ψηλότερο σημείο των Τειχών του Ηρακλείου, τον προμαχώνα Μαρτινένγκο , έχοντας πανοραμική θέα στην άχαρη, αλλά τόσο ιστορική, τσιμεντούπολη του Μεγάλου Κάστρου",
     "address": " Ηράκλειο",
     "city": "HER",
-    "link": "https://www.thisiscrete.gr/gr/historical-monuments/kazantzakis-grave-159"
+    "link": "https://www.thisiscrete.gr/gr/historical-monuments/kazantzakis-grave-159",
+    "image":""
   },
   {
     "id": 8,
@@ -86,7 +93,8 @@
     "desc": "Το Ιστορικό Μουσείο Κρήτης ιδρύθηκε το 1953 από την Εταιρία Κρητικών Ιστορικών Μελετών και στεγάζεται στο Ηράκλειο Κρήτης. Το μουσείο παρουσιάζει μια συνολική εικόνα της ιστορίας της Κρήτης από τους πρώτους χριστιανικούς αιώνες έως τη σύγχρονη εποχή. ",
     "address": " Λεωφ. Σοφοκλή Βενιζέλου 27",
     "city": "HER",
-    "link": "https://www.historical-museum.gr/"
+    "link": "https://www.historical-museum.gr/",
+    "image":""
   },
   {
     "id": 9,
@@ -97,7 +105,8 @@
     "desc": "Η κρήνη παίρνει το όνομά της από τον Ενετό Γενικό Προβλεπτή της Francesco Morozini, κατά τη θητεία του οποίου κατασκευάστηκε το μεγάλο υδρευτικό έργο που ξεδίψασε το Μεγάλο Κάστρο (Ηράκλειο).",
     "address": "Πλ. Ελ. Βενιζέλου",
     "city": "HER",
-    "link": "https://www.explorecrete.com/Heraklion/GR04-Heraklion-lions-square.html"
+    "link": "https://www.explorecrete.com/Heraklion/GR04-Heraklion-lions-square.html",
+    "image":""
   },
   {
     "id": 10,
@@ -108,7 +117,8 @@
     "desc": "Πολυτελές δημαρχιακό μέγαρο που χτίστηκε την Ενετική περίοδο με ένα κομψό αίθριο και αίθουσα εκδηλώσεων",
     "address": "Οδός 25ης Αυγούστου",
     "city": "HER",
-    "link": "https://el.wikipedia.org/wiki/%CE%9B%CF%8C%CF%84%CE%B6%CE%B9%CE%B1_(%CE%97%CF%81%CE%AC%CE%BA%CE%BB%CE%B5%CE%B9%CE%BF)"
+    "link": "https://el.wikipedia.org/wiki/%CE%9B%CF%8C%CF%84%CE%B6%CE%B9%CE%B1_(%CE%97%CF%81%CE%AC%CE%BA%CE%BB%CE%B5%CE%B9%CE%BF)",
+    "image":""
   },
   {
     "id": 11,
@@ -119,7 +129,8 @@
     "desc": "Η κρήνη Ριμόντι είναι ενετική κρήνη, η οποία ευρίσκεται επί της Πλατείας Ριμόντι στο Ρέθυμνο της Κρήτης στην Ελλάδα. Κατασκευάστηκε περί το 1626. Πήρε την ονομασία της από τον Αλβίζε Ριμόντι, τότε διοικητή της πόλης. Ο θυρεός της οικογένειας Ριμόντι είναι ακόμη ορατός επάνω στο μνημείο.",
     "address": "Μαυροκορδάτου Αλέξανδρου",
     "city": "RETH",
-    "link": "https://www.rethymno.gr/city/Rimondi/rimondi.html"
+    "link": "https://www.rethymno.gr/city/Rimondi/rimondi.html",
+    "image":""
     
   },
   {
@@ -131,7 +142,8 @@
     "desc": "Η Λότζια του Ρεθύμνου, ήταν Ενετικό οικοδόμημα το οποίο ανεγέρθηκε στα 1538-1540. Πρόκειται για ένα δημόσιο κτήριο στο οποίο συσκεπτόταν οι άρχοντες και οι ευγενείς της πόλης, και συζητούσαν τα διάφορα πολιτικά, οικονομικά και εμπορικά ζητήματα της εποχής. Χρησίμευε ακόμα και ως χώρος αναψυχής και λέσχης τυχερών παιχνιδιών για τους ευγενείς.",
     "address": "Αρκαδίου 218, Ρέθυμνο 741 00",
     "city": "RETH",
-    "link": "http://www.rethimno.gr/el/pages/loggia.php?sub=loggia"
+    "link": "http://www.rethimno.gr/el/pages/loggia.php?sub=loggia",
+    "image":""
   },
   {
     "id": 13,
@@ -142,7 +154,8 @@
     "desc": "Η Φορτέτζα (Fortezza), -και όχι Φορτέτσα-, είναι το Ενετικό Κάστρο στο Ρέθυμνο, το οποίο δεσπόζει στο λόφο του Παλαιόκαστρου, σχεδόν μέσα στο κέντρο της παλιάς πόλης και πάνω στη θάλασσα. Η Φορτέτζα είναι ορατή από κάθε γωνιά της πόλης, έχοντας πανοραμική θέα σε όλο το Ρέθυμνο και στην δυτική ακτή.",
     "address": "Ρέθυμνο",
     "city": "RETH",
-    "link": "http://www.rethimno.gr/el/pages/fortezza.php?sub=fortezza"
+    "link": "http://www.rethimno.gr/el/pages/fortezza.php?sub=fortezza",
+    "image":""
   },
   {
     "id": 14,
@@ -153,7 +166,8 @@
     "desc":  "Στην παλιά πόλη του Ρεθύμνου ένα βενετσιάνικο αρχοντικό έχει ανοίξει τις αίθουσες του και στεγάζει το ιστορικό και λαογραφικό μουσείο της πόλης. Το βενετσιάνικο κτίριο του Ιδρύματος, ιστορικό διατηρητέο μνημείο του 17ου αι., προσφέρει τον ιδεώδη χώρο για την παρουσίαση των συλλογών του ενώ παράλληλα η λειτουργία του Μουσείου συμβάλλει στην προστασία του μνημείου.",
     "address": "Εμμανουήλ Βερνάδου",
     "city": "RETH",
-    "link": "https://www.rethymno.gr/city/historical-museum/historical-museum.html"
+    "link": "https://www.rethymno.gr/city/historical-museum/historical-museum.html",
+    "image":""
   },
   {
     "id": 15,
@@ -164,7 +178,8 @@
     "desc": "",
     "address": "Επαρχία Αγίου Βασιλείου, Ρέθυμνο 741 00",
     "city": "RETH",
-    "link": "https://www.cretanbeaches.com/el/%CE%B8%CF%81%CE%B7%CF%83%CE%BA%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%AC-%CE%BC%CE%BD%CE%B7%CE%BC%CE%B5%CE%AF%CE%B1-%CE%BA%CF%81%CE%AE%CF%84%CE%B7/%CE%BC%CE%BF%CE%BD%CE%B1%CF%83%CF%84%CE%AE%CF%81%CE%B9%CE%B1-%CF%83%CF%84%CE%B7%CE%BD-%CE%BA%CF%81%CE%AE%CF%84%CE%B7/%CE%BC%CE%BF%CE%BD%CE%AE-%CF%80%CF%81%CE%AD%CE%B2%CE%B5%CE%BB%CE%B7"
+    "link": "https://www.cretanbeaches.com/el/%CE%B8%CF%81%CE%B7%CF%83%CE%BA%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%AC-%CE%BC%CE%BD%CE%B7%CE%BC%CE%B5%CE%AF%CE%B1-%CE%BA%CF%81%CE%AE%CF%84%CE%B7/%CE%BC%CE%BF%CE%BD%CE%B1%CF%83%CF%84%CE%AE%CF%81%CE%B9%CE%B1-%CF%83%CF%84%CE%B7%CE%BD-%CE%BA%CF%81%CE%AE%CF%84%CE%B7/%CE%BC%CE%BF%CE%BD%CE%AE-%CF%80%CF%81%CE%AD%CE%B2%CE%B5%CE%BB%CE%B7",
+    "image":""
   },
   {
     "id": 16,
@@ -175,7 +190,8 @@
     "desc": "Η Ιερά Μονή Αρκαδίου είναι ιστορική Μονή στην Κρήτη. Ιδρύθηκε από έναν μοναχό ονόματι Αρκάδιο και όχι, όπως ενίοτε λέγεται λανθασμένα, από το Βυζαντινό αυτοκράτορα Αρκάδιο. Η πρώτη μορφή της μονής πιθανολογείται ότι οικοδομήθηκε είτε κατά την περίοδο 961 με 1014, είτε στα πρώτα χρόνια της Βενετοκρατίας.",
     "address": "",
     "city": "RETH",
-    "link": "https://el.wikipedia.org/wiki/%CE%9C%CE%BF%CE%BD%CE%AE_%CE%91%CF%81%CE%BA%CE%B1%CE%B4%CE%AF%CE%BF%CF%85"
+    "link": "https://el.wikipedia.org/wiki/%CE%9C%CE%BF%CE%BD%CE%AE_%CE%91%CF%81%CE%BA%CE%B1%CE%B4%CE%AF%CE%BF%CF%85",
+    "image":""
   },
   {
     "id": 17,
@@ -186,7 +202,8 @@
     "desc": "O νέος τρίκλιτος ναός των Tεσσάρων Nεομαρτύρων Aγγελή, Mανουήλ, Γεωργίου και Nικολάου έχει οικοδομηθεί στη θέση παλαιότερων, ανατολικά της ομώνυμης πλατείας και κοντά στον χώρο του μαρτυρίου τους.",
     "address": "Γερακάρη 6",
     "city": "RETH",
-    "link": "https://www.imra.gr/naos-tessaron-marturon.html"
+    "link": "https://www.imra.gr/naos-tessaron-marturon.html",
+    "image":""
   },
   {
     "id": 18,
@@ -197,7 +214,8 @@
     "desc": "Το Τζαμί Νερατζέ ή Νερατζές είναι κτίριο το οποίο βρίσκεται στην παλιά πόλη του Ρεθύμνου. Το κτίριο στο παρελθόν υπήρξε καθολικό μονής του τάγματος των Αυγουστινιανών με το όνομα Σάντα Μαρία. Με την κατάκτηση του Ρεθύμνου από τους Οθωμανούς, η μονή μετατράπηκε σε τζαμί, το οποίο ήταν γνωστό ως το τζαμί του Γαζή Χουσεΐν Πασά ή τζαμί Νερατζέ.",
     "address": "Εμμανουήλ Βερνάδου",
     "city": "RETH",
-    "link": "http://www.rethimno.gr/el/pages/tzami.php?sub=tzami"
+    "link": "http://www.rethimno.gr/el/pages/tzami.php?sub=tzami",
+    "image":""
   },
   {
     "id": 19,
@@ -208,7 +226,8 @@
     "desc": "Η Ιερά Μητρόπολις Ρεθύμνης και Αυλοποτάμου είναι μία από τις επτά ιστορικές Μητροπόλεις της Εκκλησίας της Κρήτης, εκτός της Αρχιεπισκοπής Κρήτης, η περιφέρεια της οποίας καλύπτει την περιοχή του Νομού Ρεθύμνης Κρήτης με έδρα το Ρέθυμνο.",
     "address": "Μουσούρων και Μενιουδάκη",
     "city": "RETH",
-    "link": "https://www.imra.gr/mitropolitikos-naos.html"
+    "link": "https://www.imra.gr/mitropolitikos-naos.html",
+    "image":""
   },
   {
     "id": 20,
@@ -219,7 +238,8 @@
     "desc": "Η Μεγάλη Πόρτα, όπως την αποκαλούν οι ντόπιοι, είναι ένα αξιοθέατο μέσα στο Ρέθυμνο , στην αρχή της οδού Εθνικής Αντιστάσεως και η είσοδος στην παλιά πόλη. Η Μεγάλη Πόρτα, (ή αλλιώς πύλη Guora ή Porta Guora) που άνοιγε τα ξημερώματα και έκλεινε το βράδυ, χτίστηκε στα χρόνια του ρέκτορα Jocopo Guoro (1566-1568), από τον οποίο πήρε και το όνομά της και είναι από τα ελάχιστα αξιοθέατα που απέμειναν από τις ενετικές οχυρώσεις του Ρεθύμνου.",
     "address": "Αντιστάσεως και Δημακοπούλου",
     "city": "RETH",
-    "link": "https://greece.terrabook.com/el/rethymno/page/megali-porta/"
+    "link": "https://greece.terrabook.com/el/rethymno/page/megali-porta/",
+    "image":""
   },
   {
     "id": 21,
@@ -230,7 +250,8 @@
     "desc": "Ιστορικό μουσείο και πρώην κατοικία του εξέχοντα Έλληνα πολιτικού του 20ού αιώνα Ελευθερίου Βενιζέλου.",
     "address": "Πλ. Έλενας Βενιζέλου",
     "city": "CHQ",
-    "link": "https://www.venizelos-foundation.gr/el/"
+    "link": "https://www.venizelos-foundation.gr/el/",
+    "image":""
   },
   {
     "id": 22,
@@ -241,7 +262,8 @@
     "desc": "Το Ιστορικό Αρχείο Κρήτης (Ι.Α.Κ.) ιδρύθηκε το 1920, στεγάζεται σ’ ένα νεοκλασικό διατηρητέο κτίριο στην πόλη των Χανίων και αποτελεί τμήμα των Γενικών Αρχείων του Κράτους",
     "address": "Ιωάννου Σφακιανάκη 20",
     "city": "CHQ",
-    "link": "https://www.chaniatourism.com/el/see-do/museums/118-historical-archive-of-crete.html"
+    "link": "https://www.chaniatourism.com/el/see-do/museums/118-historical-archive-of-crete.html",
+    "image":""
   },
   {
     "id": 23,
@@ -252,7 +274,8 @@
     "desc": "Μουσείο ναυτικής ιστορίας από την εποχή του Χαλκού έως το παρόν, με μοντέλα πλοίων και κειμήλια πολέμου.",
     "address": "Ακτή Κουντουριώτη",
     "city": "CHQ",
-    "link": "http://mar-mus-crete.gr/"
+    "link": "http://mar-mus-crete.gr/",
+    "image":""
   },
   {
     "id": 24,
@@ -263,7 +286,8 @@
     "desc": "Το νέο Αρχαιολογικό Μουσείο αποτελεί ίσως το μεγαλύτερο και σημαντικότερο έργο, πρωτίστως για την πολιτιστική αλλά και για την τουριστική ανάπτυξη των Χανίων, το οποίο θα συμβάλει κατά πολύ και στην ανάδειξη της συνοικίας της Χαλέπας με τα δεκάδες νεοκλασικά αρχοντικά σπίτια που αποτελούν και μνημεία της νεώτερης ιστορίας του τόπου.",
     "address": "Σκρα 15",
     "city": "CHQ",
-    "link": "http://chaniamuseum.culture.gr/"
+    "link": "http://chaniamuseum.culture.gr/",
+    "image":""
   },
   {
     "id": 25,
@@ -274,7 +298,8 @@
     "desc": "Ο Ιερός Ναός Αγίου Νικολάου είναι χριστιανικός ναός αφιερωμένος στον Άγιο Νικόλαο που βρίσκεται στη πλατεία της Σπλάντζιας των Χανίων. Χτίστηκε γύρω στα 1320 ως καθολικό μονής από την αδελφότητα της Μονής του Αγίου Πέτρου των Δομινικανών του Χάνδακα. Αρχιτεκτονικά ακολουθεί τον τύπο της ξυλόστεγης βασιλικής με εγκάρσιο κλίτος",
     "address": "Ρούσου Βουρδουμπά 5, Χανιά 731 32",
     "city": "CHQ",
-    "link": "https://el.wikipedia.org/wiki/%CE%99%CE%B5%CF%81%CF%8C%CF%82_%CE%9D%CE%B1%CF%8C%CF%82_%CE%91%CE%B3%CE%AF%CE%BF%CF%85_%CE%9D%CE%B9%CE%BA%CE%BF%CE%BB%CE%AC%CE%BF%CF%85_(%CE%A3%CF%80%CE%BB%CE%AC%CE%BD%CF%84%CE%B6%CE%B9%CE%B1_%CE%A7%CE%B1%CE%BD%CE%AF%CF%89%CE%BD)"
+    "link": "https://el.wikipedia.org/wiki/%CE%99%CE%B5%CF%81%CF%8C%CF%82_%CE%9D%CE%B1%CF%8C%CF%82_%CE%91%CE%B3%CE%AF%CE%BF%CF%85_%CE%9D%CE%B9%CE%BA%CE%BF%CE%BB%CE%AC%CE%BF%CF%85_(%CE%A3%CF%80%CE%BB%CE%AC%CE%BD%CF%84%CE%B6%CE%B9%CE%B1_%CE%A7%CE%B1%CE%BD%CE%AF%CF%89%CE%BD)",
+    "image":""
   },
   {
     "id": 26,
@@ -296,7 +321,8 @@
     "desc": "Ενετικό φρούριο που χρονολογείται από τα μέσα του 16ου αιώνα και διαθέτει γραφική θέα στο λιμάνι και ναυτικό μουσείο.",
     "address": "Χανιά 731 31",
     "city": "CHQ",
-    "link": "https://greece.terrabook.com/el/chania/page/frourio-firka/"
+    "link": "https://greece.terrabook.com/el/chania/page/frourio-firka/",
+    "image":""
   },
   {
     "id": 28,
@@ -307,7 +333,8 @@
     "desc": "Ενετικός φάρος που χτίστηκε αρχικά τον 16ο αιώνα και αργότερα τροποποιήθηκε από τους Αιγύπτιους το 1839.",
     "address": "Χανιά 731 32",
     "city": "CHQ",
-    "link": ""
+    "link": "",
+    "image":""
   },
   {
     "id": 29,
@@ -318,7 +345,8 @@
     "desc": "Το τζαμί του Κιουτσούκ Χασάν ή Γιαλί Τζαμισί βρίσκεται στα Χανιά και είναι έργο της ισλαμικής τέχνης.Χρονολογείται στο β’ μισό του 17ου αιώνα. Κτίστηκε προς τιμήν του πρώτου φρουράρχου των Χανίων, Κιουτσούκ Χασάν. ",
     "address": "Σουρμελής 18",
     "city": "CHQ",
-    "link": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%B1%CE%BB%CE%AF_%CE%A4%CE%B6%CE%B1%CE%BC%CE%AF"
+    "link": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%B1%CE%BB%CE%AF_%CE%A4%CE%B6%CE%B1%CE%BC%CE%AF",
+    "image":""
   },
   {
     "id": 30,
@@ -329,7 +357,8 @@
     "desc": "Η πύλη της Άμμου, γνωστή και ως Σαμπιονάρα ή Κουμ Καπί, είναι η Βορειοανατολική και η μόνη που σώζεται μέχρι σήμερα από τις τρεις πύλες του δεύτερου (εξωτερικού) βενετσιάνικου τείχους των Χανίων, το οποίο άρχισε να οικοδομείται στις αρχές του 16ου αιώνα και τελείωσε το 1590. ",
     "address": "Δευκαλίωνος 9",
     "city": "CHQ",
-    "link": "https://flashnews.gr/post/363864/pylh-ths-ammoy-h-istoria-pisw-apo-th-benetsianikh-pylh-fwto"
+    "link": "https://flashnews.gr/post/363864/pylh-ths-ammoy-h-istoria-pisw-apo-th-benetsianikh-pylh-fwto",
+    "image":""
   },
   {
     "id": 31,
@@ -340,7 +369,8 @@
     "desc": "Το Αρχαιολογικό μουσείο του Αγίου Νικολάου, εκτιμάται ως ένα από τα πιο αξιόλογα μουσεία στην Κρήτη, ενώ ξεκίνησε την λειτουργία του από το 1969.",
     "address": "Κων/νου Παλαιολόγου 41",
     "city": "AGN",
-    "link": "https://www.agiosnikolaoscrete.com/el/experiences/culture/museums-sights/archaeological-museum-of-agios-nikolaos/"
+    "link": "https://www.agiosnikolaoscrete.com/el/experiences/culture/museums-sights/archaeological-museum-of-agios-nikolaos/",
+    "image":""
   },
   {
     "id": 32,
@@ -351,7 +381,8 @@
     "desc": "Το Σπήλαιο της Μιλάτου βρίσκεται στο χωριό Μίλατος του Νομό Λασιθίου στην Κρήτη.Εδώ, το 1823, σφαγιάσθηκαν 2.000 γυναικόπαιδα από το στρατό του Χασάν Πασά, μετά από πολυήμερη πολιορκία.",
     "address": "Μίλατος Λασιθίου, Βραχάσι 724 00",
     "city": "AGN",
-    "link": "https://www.cretanbeaches.com/el/%CF%83%CF%80%CE%AE%CE%BB%CE%B1%CE%B9%CE%B1-%CF%84%CE%B7%CF%82-%CE%BA%CF%81%CE%AE%CF%84%CE%B7%CF%82/%CF%83%CF%80%CE%AE%CE%BB%CE%B1%CE%B9%CE%BF-%CE%BC%CE%B9%CE%BB%CE%AC%CF%84%CE%BF%CF%85"
+    "link": "https://www.cretanbeaches.com/el/%CF%83%CF%80%CE%AE%CE%BB%CE%B1%CE%B9%CE%B1-%CF%84%CE%B7%CF%82-%CE%BA%CF%81%CE%AE%CF%84%CE%B7%CF%82/%CF%83%CF%80%CE%AE%CE%BB%CE%B1%CE%B9%CE%BF-%CE%BC%CE%B9%CE%BB%CE%AC%CF%84%CE%BF%CF%85",
+    "image":""
   },
   {
     "id": 33,
@@ -362,7 +393,8 @@
     "desc": "Ο Πρωτοβυζαντινός τρουλλαίος ναός του Αγίου Νικολάου, του προστάτη των Ναυτικών, στον όρμο του Καθολικού έχει δώσει το όνομα του σε ολόκληρη την πόλη του Αγίου Νικολάου.",
     "address": "Αγ. Νικόλαος 721 00",
     "city": "AGN",
-    "link": "https://www.cretanbeaches.com/el/%CE%B8%CF%81%CE%B7%CF%83%CE%BA%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%AC-%CE%BC%CE%BD%CE%B7%CE%BC%CE%B5%CE%AF%CE%B1-%CE%BA%CF%81%CE%AE%CF%84%CE%B7/%CE%B1%CE%BD%CE%B5%CE%BD%CE%B5%CF%81%CE%B3%CE%AC-%CE%BC%CE%BF%CE%BD%CE%B1%CF%83%CF%84%CE%AE%CF%81%CE%B9%CE%B1-%CE%BA%CE%B1%CE%B9-%CE%B5%CF%81%CE%B7%CE%BC%CE%B7%CF%84%CE%AE%CF%81%CE%B9%CE%B1/%CE%BF%CE%B9-%CE%B1%CE%BD%CE%B5%CE%BD%CE%B5%CF%81%CE%B3%CE%AD%CF%82-%CE%BC%CE%BF%CE%BD%CE%AD%CF%82-%CF%84%CE%BF%CF%85-%CE%BC%CE%B9%CF%81%CE%B1%CE%BC%CF%80%CE%AD%CE%BB%CE%BF%CF%85/%CE%B2%CF%85%CE%B6%CE%B1%CE%BD%CF%84%CE%B9%CE%BD%CF%8C%CF%82-%CE%BD%CE%B1%CF%8C%CF%82-%CE%B1%CE%B3%CE%AF%CE%BF%CF%85-%CE%BD%CE%B9%CE%BA%CE%BF%CE%BB%CE%AC%CE%BF%CF%85"
+    "link": "https://www.cretanbeaches.com/el/%CE%B8%CF%81%CE%B7%CF%83%CE%BA%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%AC-%CE%BC%CE%BD%CE%B7%CE%BC%CE%B5%CE%AF%CE%B1-%CE%BA%CF%81%CE%AE%CF%84%CE%B7/%CE%B1%CE%BD%CE%B5%CE%BD%CE%B5%CF%81%CE%B3%CE%AC-%CE%BC%CE%BF%CE%BD%CE%B1%CF%83%CF%84%CE%AE%CF%81%CE%B9%CE%B1-%CE%BA%CE%B1%CE%B9-%CE%B5%CF%81%CE%B7%CE%BC%CE%B7%CF%84%CE%AE%CF%81%CE%B9%CE%B1/%CE%BF%CE%B9-%CE%B1%CE%BD%CE%B5%CE%BD%CE%B5%CF%81%CE%B3%CE%AD%CF%82-%CE%BC%CE%BF%CE%BD%CE%AD%CF%82-%CF%84%CE%BF%CF%85-%CE%BC%CE%B9%CF%81%CE%B1%CE%BC%CF%80%CE%AD%CE%BB%CE%BF%CF%85/%CE%B2%CF%85%CE%B6%CE%B1%CE%BD%CF%84%CE%B9%CE%BD%CF%8C%CF%82-%CE%BD%CE%B1%CF%8C%CF%82-%CE%B1%CE%B3%CE%AF%CE%BF%CF%85-%CE%BD%CE%B9%CE%BA%CE%BF%CE%BB%CE%AC%CE%BF%CF%85",
+    "image":""
   },
   {
     "id": 34,
@@ -373,7 +405,8 @@
     "desc": "Tα Γουρνιά -με άγνωστη την αρχαία ονομασία- είναι το χαρακτηριστικότερο ανασκαμμένο παράδειγμα ενός μεσαίου μεγέθους οικισμού της εποχής της μινωικής ακμής (Υστερομινωική Ι περίοδος : 1550-1450 π.Χ. και διατηρείται καλά, γι΄αυτό τον ονόμασαν “Πομπηία της μινωικής Κρήτης”. Είναι κτισμένος σε χαμηλό λόφο, πολύ κοντά στη θάλασσα, στον Ισθμό της Ιεράπετρας.",
     "address": "Παχειά Άμμος 722 00",
     "city": "AGN",
-    "link": "https://www.visitcrete.com/el/plirofories/mouseia-archaiologikoi-choroi/katigoria/archaiologikoi-choroi/archaiologikos-choros-gournion/"
+    "link": "https://www.visitcrete.com/el/plirofories/mouseia-archaiologikoi-choroi/katigoria/archaiologikoi-choroi/archaiologikos-choros-gournion/",
+    "image":""
   },
   {
     "id": 35,
@@ -384,7 +417,8 @@
     "desc": "Ελαιώνας με περιηγήσεις στους χώρους παραγωγής λαδιού, καθώς και μαθήματα τυροκομίας, αγγειοπλαστικής και κρητικής μαγειρικής.",
     "address": "2ο χλμ Αγ.Νικόλαος-Ελούντα",
     "city": "AGN",
-    "link": "https://www.cretanoliveoilfarm.com/"
+    "link": "https://www.cretanoliveoilfarm.com/",
+    "image":""
   },
   {
     "id": 36,
@@ -395,7 +429,8 @@
     "desc": "Μικροσκοπικό, ακατοίκητο νησί με ένα ενετικό φρούριο του 16ου αιώνα και τα ερείπια μιας πρώην αποικίας λεπρών.",
     "address": "",
     "city": "AGN",
-    "link": "http://www.visitgreece.gr/el/greek_islands/crete/spinalonga"
+    "link": "http://www.visitgreece.gr/el/greek_islands/crete/spinalonga",
+    "image":""
   },
   {
     "id": 37,
@@ -406,7 +441,8 @@
     "desc": "Το εκκλησάκι του Ψαρά βρίσκεται στην αποβάθρα δυτικά της λίμνης Βουλισμένης στον Άγιο Νικόλαο. Εσωτερικά της εκκλησίας, υπάρχει μια κρύπτη 25 περίπου μέτρων που θυμίζει μουσείο με αντικείμενα ναυσιπλοΐας.",
     "address": "Νικ. Πλαστήρα 18-22",
     "city": "AGN",
-    "link": "http://www.cretevantaxi.com/gr/blog/to-ekklisaki-tou-psara-ston-agio-nikolao-68"
+    "link": "http://www.cretevantaxi.com/gr/blog/to-ekklisaki-tou-psara-ston-agio-nikolao-68",
+    "image":""
   },
   {
     "id": 38,
@@ -417,7 +453,8 @@
     "desc": "Το Λαογραφικό Μουσείο Αγίου Νικολάου ιδρύθηκε το 1978, από τον Πολιτιστικό Σύλλογο Ανατολικής Κρήτης.",
     "address": "Κων/νου Παλαιολόγου 41",
     "city": "AGN",
-    "link": "https://www.cretanbeaches.com/el/%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%AF%CE%B1-%CF%84%CE%B7%CF%82-%CE%BA%CF%81%CE%AE%CF%84%CE%B7%CF%82/%CE%BC%CE%BF%CF%85%CF%83%CE%B5%CE%AF%CE%B1-%CE%BA%CE%B1%CE%B9-%CF%83%CF%85%CE%BB%CE%BB%CE%BF%CE%B3%CE%AD%CF%82/%CE%BB%CE%B1%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CE%AC-%CE%BA%CE%B1%CE%B9-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%83%CE%B9%CE%B1%CE%BA%CE%AC-%CE%BC%CE%BF%CF%85%CF%83%CE%B5%CE%AF%CE%B1/%CE%BB%CE%B1%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C-%CE%BC%CE%BF%CF%85%CF%83%CE%B5%CE%AF%CE%BF-%CE%B1%CE%B3%CE%AF%CE%BF%CF%85-%CE%BD%CE%B9%CE%BA%CE%BF%CE%BB%CE%AC%CE%BF%CF%85"
+    "link": "https://www.cretanbeaches.com/el/%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%AF%CE%B1-%CF%84%CE%B7%CF%82-%CE%BA%CF%81%CE%AE%CF%84%CE%B7%CF%82/%CE%BC%CE%BF%CF%85%CF%83%CE%B5%CE%AF%CE%B1-%CE%BA%CE%B1%CE%B9-%CF%83%CF%85%CE%BB%CE%BB%CE%BF%CE%B3%CE%AD%CF%82/%CE%BB%CE%B1%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CE%AC-%CE%BA%CE%B1%CE%B9-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%83%CE%B9%CE%B1%CE%BA%CE%AC-%CE%BC%CE%BF%CF%85%CF%83%CE%B5%CE%AF%CE%B1/%CE%BB%CE%B1%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C-%CE%BC%CE%BF%CF%85%CF%83%CE%B5%CE%AF%CE%BF-%CE%B1%CE%B3%CE%AF%CE%BF%CF%85-%CE%BD%CE%B9%CE%BA%CE%BF%CE%BB%CE%AC%CE%BF%CF%85",
+    "image":""
   },
   {
     "id": 39,
@@ -428,7 +465,8 @@
     "desc": "Η Λίμνη του Αγίου Νικολάου, γνωστή κι ως Βουλισμένη ή Βρωμολίμνη βρίσκεται στο κέντρο του Αγίου Νικολάου, αποτελώντας το σήμα κατατεθέν της πόλης, με συνολική περίμετρο 500μ.",
     "address": "Ρούσσου Καπετανάκη 7",
     "city": "AGN",
-    "link": "https://www.explorecrete.com/crete-east/GR-agios-nikolaos-limni.html"
+    "link": "https://www.explorecrete.com/crete-east/GR-agios-nikolaos-limni.html",
+    "image":""
   },
   {
     "id": 40,
@@ -439,6 +477,7 @@
     "desc": "Μία από τις σημαντικότερες πόλεις – κράτη των Δωριέων στην Κρήτη, που θεωρείται μάλιστα, η καλύτερα διατηρημένη πόλη της κλασικής – ελληνιστικής περιόδου. Κτισμένη πάνω στο διάσελο δυο λόφων, σε στρατηγική θέση προσφέροντας έτσι αμυντική κάλυψη σε ολόκληρη την πόλη.",
     "address": "25ης Μαρτίου 9",
     "city": "AGN",
-    "link": "https://www.cretanbeaches.com/el/%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%AF%CE%B1-%CF%84%CE%B7%CF%82-%CE%BA%CF%81%CE%AE%CF%84%CE%B7%CF%82/%CE%B1%CF%81%CF%87%CE%B1%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%BF%CE%AF-%CF%87%CF%8E%CF%81%CE%BF%CE%B9/%CE%BA%CE%BB%CE%B1%CF%83%CE%B9%CE%BA%CE%AE-%CE%BA%CE%B1%CE%B9-%CE%B5%CE%BB%CE%BB%CE%B7%CE%BD%CE%BF%CF%81%CF%89%CE%BC%CE%B1%CF%8A%CE%BA%CE%AE-%CE%B5%CF%80%CE%BF%CF%87%CE%AE/%CE%B1%CF%81%CF%87%CE%B1%CE%AF%CE%B1-%CE%BB%CE%B1%CF%84%CF%8E"
+    "link": "https://www.cretanbeaches.com/el/%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%AF%CE%B1-%CF%84%CE%B7%CF%82-%CE%BA%CF%81%CE%AE%CF%84%CE%B7%CF%82/%CE%B1%CF%81%CF%87%CE%B1%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%BF%CE%AF-%CF%87%CF%8E%CF%81%CE%BF%CE%B9/%CE%BA%CE%BB%CE%B1%CF%83%CE%B9%CE%BA%CE%AE-%CE%BA%CE%B1%CE%B9-%CE%B5%CE%BB%CE%BB%CE%B7%CE%BD%CE%BF%CF%81%CF%89%CE%BC%CE%B1%CF%8A%CE%BA%CE%AE-%CE%B5%CF%80%CE%BF%CF%87%CE%AE/%CE%B1%CF%81%CF%87%CE%B1%CE%AF%CE%B1-%CE%BB%CE%B1%CF%84%CF%8E",
+    "image":""
   }
 ]

@@ -8,7 +8,8 @@
       "desc": "Ξενοδοχείο 4 Αστέρων",
       "address": "Πλ. Ελευθερίας",
       "city": "HER",
-      "link": "https://capsishotels.gr/astoria/"
+      "link": "https://capsishotels.gr/astoria/",
+      "image":""
     },
     {
         "id":   2,
@@ -19,7 +20,8 @@
         "desc": "Ξενοδοχείο 4 Αστέρων",
         "address": "Κορωναίου 26 & Αγίου Τίτου",
         "city": "HER",
-        "link": "https://all.accor.com/hotel/A9P7/index.en.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps"
+        "link": "https://all.accor.com/hotel/A9P7/index.en.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps",
+        "image":""
     },
     {
         "id":   3,
@@ -30,7 +32,8 @@
         "desc": "Ξενοδοχείο 5 Αστέρων",
         "address": "Ναυάρχου Νεάρχου, Λιμένας Χερσονήσου",
         "city": "HER",
-        "link": "https://www.cretamaris.gr/"
+        "link": "https://www.cretamaris.gr/",
+        "image":""
     },
     {
         "id":   4,
@@ -41,7 +44,8 @@
         "desc": "Ξενοδοχείο 5 Αστέρων",
         "address": "Μάλια 700 07",
         "city": "HER",
-        "link": "https://www.alexander-beach.com/"
+        "link": "https://www.alexander-beach.com/",
+        "image":""
     },
     {
         "id":   5,
@@ -52,7 +56,8 @@
         "desc": "Ξενοδοχείο 3 Αστέρων",
         "address": "Μάλια 700 07",
         "city": "HER",
-        "link": "https://www.akrogiali-hotel.gr/"
+        "link": "https://www.akrogiali-hotel.gr/",
+        "image":""
     },
     {
         "id":   6,
@@ -63,7 +68,8 @@
         "desc": "Ξενοδοχείο 5 Αστέρων",
         "address": "Κάτω Γούβες 700 14",
         "city": "HER",
-        "link": "https://www.gouvespark.gr/"
+        "link": "https://www.gouvespark.gr/",
+        "image":""
     },
     {
         "id":   7,
@@ -74,7 +80,8 @@
         "desc": "Ξενοδοχείο 4 Αστέρων",
         "address": "Αγία Πελαγία 71500",
         "city": "HER",
-        "link": "https://peninsula.gr/"
+        "link": "https://peninsula.gr/",
+        "image":""
     },
     {
         "id":   8,
@@ -85,7 +92,8 @@
         "desc": "Ξενοδοχείο  Αστέρων",
         "address": "28ης Οκτωβρίου",
         "city": "RETH",
-        "link": "http://www.lefkoniko.gr/hotel.asp?myid=1001"
+        "link": "http://www.lefkoniko.gr/hotel.asp?myid=1001",
+        "image":""
     },
     {
         "id":   9,
@@ -96,7 +104,8 @@
         "desc": "Ξενοδοχείο 5 Αστέρων",
         "address": "Missiria, Ρέθυμνο 741 00",
         "city": "RETH",
-        "link": "https://www.cretapalace.com/el/index.html"
+        "link": "https://www.cretapalace.com/el/index.html",
+        "image":""
     },
     {
         "id":   10,
@@ -107,7 +116,8 @@
         "desc": "Ξενοδοχείο 3 Αστέρων",
         "address": "Μπαλί 740 57",
         "city": "RETH",
-        "link": "https://www.balibeach.gr/"
+        "link": "https://www.balibeach.gr/",
+        "image":""
     },
     {
         "id":   11,
@@ -118,7 +128,8 @@
         "desc": "Ξενοδοχείο 5 Αστέρων",
         "address": "Adelianos Kampos",
         "city": "RETH",
-        "link": "https://www.rethymnopalace.gr/"
+        "link": "https://www.rethymnopalace.gr/",
+        "image":""
     },
     {
         "id":   12,
@@ -129,7 +140,8 @@
         "desc": "Ξενοδοχείο 3 Αστέρων",
         "address": "Λεωφ. Μάχης Κρήτης 161",
         "city": "RETH",
-        "link": "https://nefeli-hotel.gr/"
+        "link": "https://nefeli-hotel.gr/",
+        "image":""
     },
     {
         "id": 13,
@@ -140,7 +152,8 @@
         "desc": "Ξενοδοχείο 5 Αστέρων",
         "address": "Σοφοκλή Βενιζέλου",
         "city": "RETH",
-        "link": "https://portorethymno.com/"
+        "link": "https://portorethymno.com/",
+        "image":""
     },
     {
         "id":   14,
@@ -151,7 +164,8 @@
         "desc": "Ξενοδοχείο 5 Αστέρων",
         "address": "Επαρ.Οδ. Γεωργιούπολης-Κουρνάς",
         "city": "CHQ",
-        "link": "https://www.anemosresort.com/en-gb"
+        "link": "https://www.anemosresort.com/en-gb",
+        "image":""
     },
     {
         "id":   15,
@@ -162,7 +176,8 @@
         "desc": "Ξενοδοχείο 4 Αστέρων",
         "address": "Παραλία Κούρνα 730 07",
         "city": "CHQ",
-        "link": "http://www.orpheas-resort.gr/"
+        "link": "http://www.orpheas-resort.gr/",
+        "image":""
     },
     {
         "id":   16,
@@ -173,7 +188,8 @@
         "desc": "Ξενοδοχείο 4 Αστέρων",
         "address": "Παραλία Κούρνα 730 07",
         "city": "CHQ",
-        "link": "https://www.vantarishotels.gr/vantarispalace/"
+        "link": "https://www.vantarishotels.gr/vantarispalace/",
+        "image":""
     },
     {
         "id":   17,
@@ -184,7 +200,8 @@
         "desc": "Ξενοδοχείο 3 Αστέρων",
         "address": "Αγ. Αποστόλοι 731 00",
         "city": "CHQ",
-        "link": "https://www.hotelelotia.com/"
+        "link": "https://www.hotelelotia.com/",
+        "image":""
     },
     {
         "id":   18,
@@ -195,7 +212,8 @@
         "desc": "Ξενοδοχείο 4 Αστέρων",
         "address": "Πάροδοσ, ΠΕΟ Κισσάμου Χανίων, Γεράνι 730 14",
         "city": "CHQ",
-        "link": "https://www.atlanticahotels.com/"
+        "link": "https://www.atlanticahotels.com/",
+        "image":""
     },
     {
         "id":   19,
@@ -206,7 +224,8 @@
         "desc": "Ξενοδοχείο 5 Αστέρων",
         "address": "Πλατανιάς 730 14",
         "city": "CHQ",
-        "link": "https://www.portoplatanias.com/"
+        "link": "https://www.portoplatanias.com/",
+        "image":""
     },
     {
         "id":   20,
@@ -217,7 +236,8 @@
         "desc": "Ξενοδοχείο 3 Αστέρων",
         "address": "Πλατεία 1866",
         "city": "CHQ",
-        "link": "https://www.arkadi-hotel.gr/"
+        "link": "https://www.arkadi-hotel.gr/",
+        "image":""
     },
     {
         "id":   21,
@@ -228,7 +248,8 @@
         "desc": "Ξενοδοχείο 3 Αστέρων",
         "address": "Σκαλίδη 27, Χανιά 731 00",
         "city": "CHQ",
-        "link": "https://centralchania.gr/"
+        "link": "https://centralchania.gr/",
+        "image":""
     },
     {
         "id":   22,
@@ -239,7 +260,8 @@
         "desc": "Ξενοδοχείο 3 Αστέρων",
         "address": "Σχίσμα Ελούντας 720 53",
         "city": "AGN",
-        "link": "http://www.eloundahotelselena.com/"
+        "link": "http://www.eloundahotelselena.com/",
+        "image":""
     },
     {
         "id":   23,
@@ -250,7 +272,8 @@
         "desc": "Ξενοδοχείο 5 Αστέρων",
         "address": "Πλάκα, Σχίσμα Ελούντας 720 53",
         "city": "AGN",
-        "link": "https://www.marriott.com/hotels/travel/herlc-blue-palace-elounda-a-luxury-collection-resort-and-spa-crete/"
+        "link": "https://www.marriott.com/hotels/travel/herlc-blue-palace-elounda-a-luxury-collection-resort-and-spa-crete/",
+        "image":""
     },
     {
         "id":   24,
@@ -261,7 +284,8 @@
         "desc": "Ξενοδοχείο 4 Αστέρων",
         "address": "Αμμουδάρα 721 00",
         "city": "AGN",
-        "link": "https://www.faedrabeach.gr/"
+        "link": "https://www.faedrabeach.gr/",
+        "image":""
     },
     {
         "id":   25,
@@ -272,7 +296,8 @@
         "desc": "Ξενοδοχείο 4 Αστέρων",
         "address": "Περιοχή Γαργαδώρος",
         "city": "AGN",
-        "link": "https://www.miramarecrete.gr/"
+        "link": "https://www.miramarecrete.gr/",
+        "image":""
     },
     {
         "id":   26,
@@ -283,7 +308,8 @@
         "desc": "Ξενοδοχείο 3 Αστέρων",
         "address": "Τσελέπη 26",
         "city": "AGN",
-        "link": "https://www.mare-olympus.gr/"
+        "link": "https://www.mare-olympus.gr/",
+        "image":""
     },
     {
         "id":   27,
@@ -294,6 +320,7 @@
         "desc": "Ξενοδοχείο 3 Αστέρων",
         "address": "ΕΟ Αγίου Νικολάου Σητείας 109, Αγ. Νικόλαος 721 00",
         "city": "AGN",
-        "link": "http://www.istronbay.gr/el/"
+        "link": "http://www.istronbay.gr/el/",
+        "image":""
     }
 ]
