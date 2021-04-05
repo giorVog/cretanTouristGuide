@@ -8,7 +8,8 @@
     "desc": "Εστιατόριο-Κρητική Κουζίνα",
     "address": "Καπετάν Χαραλάμπη 6-8",
     "city": "HER",
-    "link": "https://peskesicrete.gr/el/"
+    "link": "https://peskesicrete.gr/el/",
+    "image":"/avatarImages/restaurants/peskesi.jpg"
   },
   {
     "id":   2,
@@ -19,7 +20,8 @@
     "desc": "Steak House Reastaurant",
     "address": "Αγίου τίτου, Ευρώπης",
     "city": "HER",
-    "link": "https://kouzeineri.com/"
+    "link": "https://kouzeineri.com/",
+    "image":"/avatarImages/restaurants/kouzeineri.jpg"
   },
   {
     "id": 3,
@@ -30,7 +32,8 @@
     "desc": "Burger",
     "address": "Παρ. Μινώταυρου",
     "city": "HER",
-    "link": "https://www.beeroclock.gr/"
+    "link": "https://www.beeroclock.gr/",
+    "image":"/avatarImages/restaurants/beer o clock.jpg"
   },
   {
     "id": 4,
@@ -41,7 +44,8 @@
     "desc": "Ψαροταβέρνα-Ουζερί ",
     "address": "Λεωφ. Σοφοκλή Βενιζέλου 3",
     "city": "HER",
-    "link": "https://www.facebook.com/IppokamposSeafood/"
+    "link": "https://www.facebook.com/IppokamposSeafood/",
+    "image":"/avatarImages/restaurants/ippokampos.jpg"
   },
   {
     "id": 5,
@@ -52,7 +56,8 @@
     "desc": "Ελληνικό Εστιατόριο",
     "address": "Π. Πρεβελάκη 10",
     "city": "HER",
-    "link": "https://www.facebook.com/pages/category/Diner/%CE%97-%CE%91%CF%85%CE%BB%CE%B7-%CF%84%CE%BF%CF%85-%CE%94%CE%B5%CF%85%CE%BA%CE%B1%CE%BB%CE%B9%CF%89%CE%BD%CE%B1-1390122911316365/"
+    "link": "https://www.facebook.com/pages/category/Diner/%CE%97-%CE%91%CF%85%CE%BB%CE%B7-%CF%84%CE%BF%CF%85-%CE%94%CE%B5%CF%85%CE%BA%CE%B1%CE%BB%CE%B9%CF%89%CE%BD%CE%B1-1390122911316365/",
+    "image":"/avatarImages/restaurants/deukaliona.jpg"
   },
   {
     "id": 6,
@@ -63,7 +68,8 @@
     "desc": "Ελληνικό Εστιατόριο-Μεζεδοπωλείο",
     "address": "Γιάννη Χρονάκη 8",
     "city": "HER",
-    "link": "https://el-gr.facebook.com/lychnostatis.cretan.cuisine/"
+    "link": "https://el-gr.facebook.com/lychnostatis.cretan.cuisine/",
+    "image":"/avatarImages/restaurants/lihnostatis.jpg"
   },
   {
     "id": 7,
@@ -74,7 +80,8 @@
     "desc": "Ιταλικό Εστιατόριο",
     "address": "Καντανολέοντος 2",
     "city": "HER",
-    "link": "https://viapastarella.gr/"
+    "link": "https://viapastarella.gr/",
+    "image":"/avatarImages/restaurants/pastarela.jpg"
   },
   {
     "id": 8,
@@ -85,7 +92,8 @@
     "desc": "Ψητοπωλείο-Μπριζολάδικο",
     "address": "Ίδης 6",
     "city": "HER",
-    "link": "https://el-gr.facebook.com/pages/category/Barbecue-Restaurant/Chop-Chop-1727860184189520/"
+    "link": "https://el-gr.facebook.com/pages/category/Barbecue-Restaurant/Chop-Chop-1727860184189520/",
+    "image":"/avatarImages/restaurants/chop-chop.jpg"
 
   },
   {
@@ -97,7 +105,8 @@
     "desc": "Υγιεινό φαγητό με αγνά προϊόντα οικολογικής γεωργίας και ηθικού εμπορίου.",
     "address": "Μεραμβέλλου 9",
     "city": "HER",
-    "link": "https://el-gr.facebook.com/rovithaki"
+    "link": "https://el-gr.facebook.com/rovithaki",
+    "image":"/avatarImages/restaurants/rovuthi.jpg"
   },
   {
     "id": 10,
@@ -108,7 +117,8 @@
     "desc": "Σαντουιτσάδικο.",
     "address": "Μιλάτου 29",
     "city": "HER",
-    "link": "https://el-gr.facebook.com/%CE%A4%CF%85%CF%81%CE%B1%CE%BA%CE%B9-1636128353274791/"
+    "link": "https://el-gr.facebook.com/%CE%A4%CF%85%CF%81%CE%B1%CE%BA%CE%B9-1636128353274791/",
+    "image":"/avatarImages/restaurants/tyraki.jpg"
   },
   {
     "id": 11,
@@ -119,7 +129,8 @@
     "desc": "Ιταλικο Εστιατόριο",
     "address": "Λεωφ. Εμμανουήλ Κεφαλογιάννη 18",
     "city": "RETH",
-    "link": "https://peskesicrete.gr/el/"
+    "link": "https://www.facebook.com/To.Fournaki",
+    "image":"/avatarImages/restaurants/fournaki.jpg"
   },
   {
     "id":   12,
@@ -130,7 +141,8 @@
     "desc": "Ταβέρνα",
     "address": "Λεωφ. Μάχης Κρήτης 63",
     "city": "RETH",
-    "link": "https://www.taverna-zisis.gr/elliniki-kouzina/"
+    "link": "https://www.taverna-zisis.gr/elliniki-kouzina/",
+    "image":"/avatarImages/restaurants/zisis.jpg"
   },
   {
     "id": 13,
@@ -141,7 +153,8 @@
     "desc": "Εστιατόριο",
     "address": "ΚΕΦΑΛΟΓΙΑΝΝΗΔΩΝ 33",
     "city": "RETH",
-    "link": "https://www.thalassographia.gr/#eluid0efaa466"
+    "link": "https://www.thalassographia.gr/#eluid0efaa466",
+    "image":"/avatarImages/restaurants/thalassografia.jpg"
   },
   {
     "id": 14,
@@ -152,7 +165,8 @@
     "desc": "Ελληνικό Εστιατόριο",
     "address": "Σοφοκλή Βενιζέλου και Πανεπιστημίου 72",
     "city": "RETH",
-    "link": "https://www.facebook.com/HerculesRestaurantRethimno/"
+    "link": "https://www.facebook.com/HerculesRestaurantRethimno/",
+    "image":"/avatarImages/restaurants/hercules.jpg"
   },
   {
     "id": 15,
@@ -163,7 +177,8 @@
     "desc": "Ελληνικό Εστιατόριο",
     "address": "Εμμανουήλ, Λεωφ. Εμμανουήλ Κεφαλογιάννη 28",
     "city": "RETH",
-    "link": "https://www.facebook.com/EnPloRethimno/"
+    "link": "https://www.facebook.com/EnPloRethimno/",
+    "image":"/avatarImages/restaurants/enplo.jpg"
   },
   {
     "id": 16,
@@ -174,7 +189,8 @@
     "desc": "Ιταλικό Εστιατόριο",
     "address": "ΓΑρκαδίου 279, Ρέθυμνο 741 00",
     "city": "RETH",
-    "link": "https://italianrethymno.gr/"
+    "link": "https://italianrethymno.gr/",
+    "image":"/avatarImages/restaurants/italian.jpg"
   },
   {
     "id": 17,
@@ -185,7 +201,8 @@
     "desc": "Εστιατόριο-Μεζεδοπωλείο",
     "address": "Χειμάρρας 10",
     "city": "RETH",
-    "link": "https://www.facebook.com/Rinio.Mezedopoleio?_rdc=1&_rdr"
+    "link": "https://www.facebook.com/Rinio.Mezedopoleio?_rdc=1&_rdr",
+    "image":"/avatarImages/restaurants/torinio.jpg"
   },
   {
     "id": 18,
@@ -196,7 +213,8 @@
     "desc": "Εστιατόριο-Μεζεδοπωλείο",
     "address": "Πλατεία Τίτου Πετυχάκη",
     "city": "RETH",
-    "link": "https://m.facebook.com/pages/category/Diner/Mpakalogatos-Rethymno-167091033450828/?locale2=el_GR"
+    "link": "https://m.facebook.com/pages/category/Diner/Mpakalogatos-Rethymno-167091033450828/?locale2=el_GR",
+    "image":"/avatarImages/restaurants/mpakalogatos.jpg"
 
   },
   {
@@ -208,7 +226,8 @@
     "desc": "Σαντουιτσάδικο",
     "address": "Εμμανουήλ Βερνάδου 5",
     "city": "RETH",
-    "link": "https://www.facebook.com/%CE%A4%CF%85%CF%81%CE%B1%CE%BA%CE%B9-1636128353274791/"
+    "link": "https://www.facebook.com/%CE%A4%CF%85%CF%81%CE%B1%CE%BA%CE%B9-1636128353274791/",
+    "image":"/avatarImages/restaurants/tyraki-reth.jpg"
   },
   {
     "id": 20,
@@ -219,7 +238,8 @@
     "desc": "Ψητοποωλείο.",
     "address": "Σαλαμίνος 12",
     "city": "RETH",
-    "link": "https://www.barbq.gr/menu/"
+    "link": "https://www.barbq.gr/menu/",
+    "image":"/avatarImages/restaurants/barbq.jpg"
   },
   {
     "id": 21,
@@ -230,7 +250,8 @@
     "desc": "Εστιατόριο",
     "address": "Ακτή Τομπάζη 29-30",
     "city": "CHQ",
-    "link": "https://chalkina.com/el/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/"
+    "link": "https://chalkina.com/el/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/",
+    "image":"/avatarImages/restaurants/taxalkina.jpg"
   },
   {
     "id": 22,
@@ -241,7 +262,8 @@
     "desc": "Εστιατόριο-Μεσογειακή Κουζίνα",
     "address": "Ακτή Τομπάζη 15,",
     "city": "CHQ",
-    "link": "https://www.pallaschania.gr/"
+    "link": "https://www.pallaschania.gr/",
+    "image":"/avatarImages/restaurants/palas.jpg"
   },
   {
     "id": 23,
@@ -252,7 +274,8 @@
     "desc": "Ιταλικό Εστιατόριο",
     "address": "Κατεχάκη 12. Παλαιό Λιμάνι",
     "city": "CHQ",
-    "link": "https://www.facebook.com/RestaurantKariatis/"
+    "link": "https://www.facebook.com/RestaurantKariatis/",
+    "image":"/avatarImages/restaurants/kariatis.jpg"
   },
   {
     "id": 24,
@@ -263,7 +286,8 @@
     "desc": "Εστιατόριο-Κρητική Κουζίνα",
     "address": "Ακτή Κουντουριώτη 55",
     "city": "CHQ",
-    "link": "http://www.arismarichania.gr/"
+    "link": "http://www.arismarichania.gr/",
+    "image":"/avatarImages/restaurants/arismari.jpg"
   },
   {
     "id": 25,
@@ -274,7 +298,8 @@
     "desc": "Ψητοπωλείο-Street food",
     "address": "Δασκαλογιάννη 68",
     "city": "CHQ",
-    "link": "https://www.facebook.com/porktobeefwild/?ref=nf"
+    "link": "https://www.facebook.com/porktobeefwild/?ref=nf",
+    "image":"/avatarImages/restaurants/porktobeefwild.jpg"
   },
   {
     "id": 26,
@@ -285,7 +310,8 @@
     "desc": "Εστιατόριο-Ταβέρνα",
     "address": "Αγ. Δέκα 3",
     "city": "CHQ",
-    "link": "https://www.stekirestaurant.com/"
+    "link": "https://www.stekirestaurant.com/",
+    "image":"/avatarImages/restaurants/StekiRestaurant.jpg"
   },
   {
     "id": 27,
@@ -296,7 +322,8 @@
     "desc": "Εστιατόριο-Μουσική Ταβέρνα",
     "address": "Σήφακα & Μελχισεδέκ (γωνία)",
     "city": "CHQ",
-    "link": "http://www.adespotochania.gr/el/"
+    "link": "http://www.adespotochania.gr/el/",
+    "image":"/avatarImages/restaurants/adespoto.jpg"
   },
   {
     "id": 28,
@@ -307,7 +334,8 @@
     "desc": "Ψητοπωλείο",
     "address": "Κων/νου Σφακιανάκη 10",
     "city": "CHQ",
-    "link": "https://www.facebook.com/tosouvlakiopospalia"
+    "link": "https://www.facebook.com/tosouvlakiopospalia",
+    "image":"/avatarImages/restaurants/tosouvlakiopwspalia.jpg"
   },
   {
     "id": 29,
@@ -318,7 +346,8 @@
     "desc": "Ψητοπωλείο-Μπριζολάδικο",
     "address": "Αναγνώστου Γογονή 77",
     "city": "CHQ",
-    "link": "https://thraka.com/"
+    "link": "https://thraka.com/",
+    "image":"/avatarImages/restaurants/thraka.jpg"
   },
   {
     "id": 30,
@@ -329,7 +358,8 @@
     "desc": "Εστιατόριο-Κινέζικη Κουζίνα",
     "address": "Επιμενίδου 13",
     "city": "CHQ",
-    "link": "https://www.foodbooking.com/ordering/restaurant/menu?company_uid=d00d748b-9aef-4a6d-9c0c-641dda2cc45d&restaurant_uid=0bdee62b-0bbf-4159-8fb8-836ab333f7c0&facebook=true"
+    "link": "https://www.foodbooking.com/ordering/restaurant/menu?company_uid=d00d748b-9aef-4a6d-9c0c-641dda2cc45d&restaurant_uid=0bdee62b-0bbf-4159-8fb8-836ab333f7c0&facebook=true",
+    "image":"/avatarImages/restaurants/fuasianbistro.png"
   },
   {
     "id": 31,
@@ -340,7 +370,8 @@
     "desc": "Μεζεδοπωλείο-Ταβέρνα",
     "address": "Αναπαύσεως 3",
     "city": "AGN",
-    "link": "https://el-gr.facebook.com/pages/category/Greek-Restaurant/%CE%A0%CF%8C%CF%81%CF%84%CE%B5%CF%82-%CE%9C%CE%B5%CE%B6%CE%B5%CE%B4%CE%BF%CF%80%CF%89%CE%BB%CE%B5%CE%AF%CE%BF-Portes-Mezedopolio-1540996569450600/"
+    "link": "https://el-gr.facebook.com/pages/category/Greek-Restaurant/%CE%A0%CF%8C%CF%81%CF%84%CE%B5%CF%82-%CE%9C%CE%B5%CE%B6%CE%B5%CE%B4%CE%BF%CF%80%CF%89%CE%BB%CE%B5%CE%AF%CE%BF-Portes-Mezedopolio-1540996569450600/",
+    "image":"/avatarImages/restaurants/portes.jpg"
   },
   {
     "id": 32,
@@ -351,7 +382,8 @@
     "desc": "Εστιατόριο",
     "address": "Κων/νου Παλαιολόγου 24",
     "city": "AGN",
-    "link": "https://el-gr.facebook.com/pitatouriga/"
+    "link": "https://el-gr.facebook.com/pitatouriga/",
+    "image":"/avatarImages/restaurants/hpitatouriga.jpg"
   },
   {
     "id": 33,
@@ -362,7 +394,8 @@
     "desc": "Εστιατόριο-Θαλασσινά",
     "address": "Ακτή Πάπα Νικολάου Πάγκαλου 10",
     "city": "AGN",
-    "link": "https://www.facebook.com/Maistrali-501184330040934/"
+    "link": "https://www.facebook.com/Maistrali-501184330040934/",
+    "image":"/avatarImages/restaurants/maistrali.jpg"
   },
   {
     "id": 34,
@@ -373,7 +406,8 @@
     "desc": "Εστιατόριο",
     "address": "Ακτη Νεάρχου 3",
     "city": "AGN",
-    "link": "https://el-gr.facebook.com/www.basilicopizza.gr/"
+    "link": "https://el-gr.facebook.com/www.basilicopizza.gr/",
+    "image":"/avatarImages/restaurants/basilicoristorante.jpg"
   },
   {
     "id": 35,
@@ -384,7 +418,8 @@
     "desc": "Ελληνικό Εστιατόριο",
     "address": "Μίνωος 5, Αγ. Νικόλαος 721 00",
     "city": "AGN",
-    "link": "https://www.facebook.com/piato.gr/"
+    "link": "https://www.facebook.com/piato.gr/",
+    "image":"/avatarImages/restaurants/piato.jpg"
   },
   {
     "id": 36,
@@ -395,7 +430,8 @@
     "desc": "Εστιατόριο-Fusion Ταβέρνα",
     "address": "Ομήρου 14",
     "city": "AGN",
-    "link": "http://skalataverna.gr/index.html"
+    "link": "http://skalataverna.gr/index.html",
+    "image":"/avatarImages/restaurants/skala.jpg"
   },
   {
     "id": 37,
@@ -406,7 +442,8 @@
     "desc": "Ιταλικό Εστιατόριο",
     "address": "Κων/νου Παλαιολόγου 26",
     "city": "AGN",
-    "link": "https://el-gr.facebook.com/pages/category/Interest/Pizza-grillhouse-Palermo-347677495738404/"
+    "link": "https://el-gr.facebook.com/pages/category/Interest/Pizza-grillhouse-Palermo-347677495738404/",
+    "image":"/avatarImages/restaurants/palermo.jpg"
   },
   {
     "id": 38,
@@ -417,7 +454,8 @@
     "desc": "Burger-Ψητοπωλείο",
     "address": "Κοντογιάννη 11",
     "city": "AGN",
-    "link": "https://www.facebook.com/xylaki/"
+    "link": "https://www.facebook.com/xylaki/",
+    "image":"/avatarImages/restaurants/xylaki.jpg"
   },
   {
     "id": 39,
@@ -428,7 +466,8 @@
     "desc": "Εστιατόριο-Ψητοπωλείο",
     "address": "Ακτή Στυλιανού, Κούνδουρου 12",
     "city": "AGN",
-    "link": "https://bbq-stories.business.site/?utm_source=gmb&utm_medium=referral"
+    "link": "https://bbq-stories.business.site/?utm_source=gmb&utm_medium=referral",
+    "image":"/avatarImages/restaurants/bbqstories.jpg"
   },
   {
     "id": 40,
@@ -439,7 +478,8 @@
     "desc": "Εστιατόριο-Κινέζικη Κουζίνα",
     "address": "Πασιφαης",
     "city": "AGN",
-    "link": ""
+    "link": "",
+    "image":"/avatarImages/restaurants/riceandnoodles.jpg"
   }
 ]
 

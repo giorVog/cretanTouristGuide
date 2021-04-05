@@ -8,7 +8,8 @@
       "desc": "Cafe-Restaurant",
       "address": "Αρκολεων 19, Ηράκλειο 712 02",
       "city": "HER",
-      "link": "http://www.central-park.gr/en/"
+      "link": "http://www.central-park.gr/en/",
+      "image":"/avatarImages/coffees/central.jpg"
     },
     {
       "id": 2,
@@ -19,7 +20,8 @@
       "desc": "Cafe",
       "address": "25ης Αυγούστου 76",
       "city": "HER",
-      "link": "https://m.facebook.com/indigocoffee/?locale2=el_GR"
+      "link": "https://m.facebook.com/indigocoffee/?locale2=el_GR",
+      "image":"/avatarImages/coffees/indigo.jpg"
     },
     {
       "id": 3,
@@ -30,7 +32,8 @@
       "desc": "Cafe",
       "address": "Αρετούσας 4, Ηράκλειο 712 02",
       "city": "HER",
-      "link": "http://www.crop.coffee/el/"
+      "link": "http://www.crop.coffee/el/",
+      "image":"/avatarImages/coffees/crop.jpg"
     },
     {
       "id": 4,
@@ -41,7 +44,8 @@
       "desc":  "Cafe-Gelateria",
       "address": "25ης Αυγούστου 90",
       "city": "HER",
-      "link": "https://www.davincigelato.gr"
+      "link": "https://www.davincigelato.gr",
+      "image":"/avatarImages/coffees/davinci.jpg"
     },
     {
       "id": 5,
@@ -52,7 +56,8 @@
       "desc": "Cafe",
       "address": "Μονής Οδηγήτριας 11, Ηράκλειο 712 01",
       "city": "HER",
-      "link": "https://www.facebook.com/miniatoura.cafe"
+      "link": "https://www.facebook.com/miniatoura.cafe",
+      "image":"/avatarImages/coffees/miniatoura.jpg"
     },
     {
       "id": 6,
@@ -63,7 +68,8 @@
       "desc": "Cafe",
       "address": "Αρετούσας 2",
       "city": "HER",
-      "link": "https://www.facebook.com/fix.heraklion"
+      "link": "https://www.facebook.com/fix.heraklion",
+      "image":"/avatarImages/coffees/fix.jpg"
     },
     {
       "id": 7,
@@ -74,7 +80,8 @@
       "desc": "Cafe-Bar",
       "address": "Ιδαίου Άντρου",
       "city": "HER",
-      "link": "https://plastelina.gr/"
+      "link": "https://plastelina.gr/",
+      "image":"/avatarImages/coffees/plastelina.jpg"
     },
     {
       "id": 8,
@@ -85,7 +92,8 @@
       "desc": "Cafe",
       "address": "Καρτερού 60, Ηράκλειο 712 01",
       "city": "HER",
-      "link": "http://franklymydear.gr/"
+      "link": "http://franklymydear.gr/",
+      "image":"/avatarImages/coffees/frankly.jpg"
     },
     {
       "id": 9,
@@ -96,7 +104,8 @@
       "desc": "Cafe",
       "address": "Χάνδακος 36",
       "city": "HER",
-      "link": "https://www.biscotto.coffee/MenuWithPricelistGreek2017.pdf"
+      "link": "https://www.biscotto.coffee/MenuWithPricelistGreek2017.pdf",
+      "image":"/avatarImages/coffees/biskoto.jpg"
     },
     {
       "id": 10,
@@ -107,7 +116,8 @@
       "desc": "Cafe",
       "address": "Λεωφ. Ανδρέα Παπανδρέου 25, Ηράκλειο 713 05",
       "city": "HER",
-      "link": "https://haciendacafe.gr/#menu-hacienda"
+      "link": "https://haciendacafe.gr/#menu-hacienda",
+      "image":"/avatarImages/coffees/hacienda.jpg"
     },
     {
       "id": 11,
@@ -118,7 +128,8 @@
       "desc": "Cafe",
       "address": "Δημητρακάκη 1",
       "city": "RETH",
-      "link": "https://www.barrio.gr/"
+      "link": "https://www.barrio.gr/",
+      "image":"/avatarImages/coffees/barrio.jpg"
     },
     {
       "id": 12,
@@ -129,7 +140,8 @@
       "desc": "Cafe",
       "address": "Κουντουριώτου 127",
       "city": "RETH",
-      "link": "https://www.facebook.com/Vivliothikicoffee/"
+      "link": "https://www.facebook.com/Vivliothikicoffee/",
+      "image":"/avatarImages/coffees/vivliothiki.jpg"
     },
     {
       "id": 13,
@@ -140,18 +152,20 @@
       "desc": "Cafe",
       "address": "Ελεϋθερίου Βενιζέλου 62",
       "city": "RETH",
-      "link": "https://www.facebook.com/fraoulescafe/about/?ref=page_internal"
+      "link": "https://www.facebook.com/fraoulescafe/about/?ref=page_internal",
+      "image":"/avatarImages/coffees/fraoules.jpg"
     },
     {
       "id": 14,
       "lat": 35.37206155481809,   
       "lng": 24.474102124678204,
       "type": "COFFEE",
-      "name": "Voustasia Coctail bar",
+      "name": "Ηνωμένα Βουστάσια",
       "desc": "Cafe-Cocktail Bar",
       "address": "Λεωφ. Εμμανουήλ Κεφαλογιάννη 20",
       "city": "RETH",
-      "link": "https://www.instagram.com/voustasia_cocktail_bar/?hl=en"
+      "link": "https://www.instagram.com/voustasia_cocktail_bar/?hl=en",
+      "image":"/avatarImages/coffees/voustasia.jpg"
     },
     {
       "id": 15,
@@ -162,7 +176,8 @@
       "desc": "Cafe",
       "address": "Πλατεία Τίτου Πετυχάκη 7",
       "city": "RETH",
-      "link": "https://www.culdesac.gr/home.html"
+      "link": "https://www.culdesac.gr/home.html",
+      "image":"/avatarImages/coffees/culdesac.jpg"
     },
     {
       "id": 16,
@@ -173,7 +188,8 @@
       "desc": "Cafe-Bar",
       "address": "HOME Cafe Bar",
       "city": "RETH",
-      "link": "https://www.facebook.com/homeseaside/"
+      "link": "https://www.facebook.com/homeseaside/",
+      "image":"/avatarImages/coffees/home.jpg"
     },
     {
       "id": 17,
@@ -184,7 +200,8 @@
       "desc": "Cafe",
       "address": "Δημητρακάκη 2",
       "city": "RETH",
-      "link": "https://el-gr.facebook.com/bankery.rethymno/"
+      "link": "https://el-gr.facebook.com/bankery.rethymno/",
+      "image":"/avatarImages/coffees/bankery.jpg"
     },
     {
       "id": 18,
@@ -195,7 +212,8 @@
       "desc": "Cafe",
       "address": "Ελεϋθερίου Βενιζέλου 73",
       "city": "RETH",
-      "link": "https://www.facebook.com/alldaybar.Store311"
+      "link": "https://www.facebook.com/alldaybar.Store311",
+      "image":"/avatarImages/coffees/store.jpg"
     },
     {
       "id": 19,
@@ -206,7 +224,8 @@
       "desc": "Cafe",
       "address": "Σαλαμίνος 7",
       "city": "RETH",
-      "link": "https://www.facebook.com/Arokaria"
+      "link": "https://www.facebook.com/Arokaria",
+      "image":"/avatarImages/coffees/arokaria.jpg"
     },
     {
       "id": 20,
@@ -217,7 +236,8 @@
       "desc": "Cafe",
       "address": "Ηλιακάκη 15-18",
       "city": "RETH",
-      "link": ""
+      "link": "https://www.facebook.com/lejardinrethymno/?rf=109093536110895",
+      "image":"/avatarImages/coffees/lejardin.jpg"
     },
     {
       "id": 21,
@@ -228,7 +248,8 @@
       "desc": "Cafe",
       "address": "Κυδωνίας 65",
       "city": "CHQ",
-      "link": "https://www.aera.gr/item/coffee-lab-chania/"
+      "link": "https://el-gr.facebook.com/coffeelabchania",
+      "image":"/avatarImages/coffees/coffeelab.jpg"
     },
     {
       "id": 22,
@@ -239,7 +260,8 @@
       "desc": "Cafe",
       "address": "Σκαλίδη 72",
       "city": "CHQ",
-      "link": "https://cartoon-cafe-cafe.business.site/"
+      "link": "https://cartoon-cafe-cafe.business.site/",
+      "image":"/avatarImages/coffees/cartoon.jpg"
     },
     {
       "id": 23,
@@ -250,7 +272,8 @@
       "desc": "Cafe",
       "address": "Σελίνου 151",
       "city": "CHQ",
-      "link": ""
+      "link": "",
+      "image":"/avatarImages/coffees/bello.jpg"
     },
     {
       "id": 24,
@@ -261,7 +284,8 @@
       "desc": "Cafe-Restaurant",
       "address": "Ακτή Τομπάζη 4",
       "city": "CHQ",
-      "link": "http://www.cafearoma.gr/"
+      "link": "http://www.cafearoma.gr/",
+      "image":"/avatarImages/coffees/aroma.jpg"
     },
     {
       "id": 25,
@@ -272,7 +296,8 @@
       "desc": "Cafe",
       "address": "Ποτιέ 45",
       "city": "CHQ",
-      "link": ""
+      "link": "",
+      "image":"/avatarImages/coffees/mpizoudaki.jpg"
     },
     {
       "id": 26,
@@ -283,7 +308,8 @@
       "desc": "Cafe-Restaurant",
       "address": "Ακτή Κουντουριώτη 1",
       "city": "CHQ",
-      "link": ""
+      "link": "",
+      "image":"/avatarImages/coffees/sintrivani.jpg"
     },
     {
       "id": 27,
@@ -294,7 +320,8 @@
       "desc": "Cafe",
       "address": "Ακτή Τομπάζη 12",
       "city": "CHQ",
-      "link": "http://www.atlasvisual.com/crete-chania-cafes/barbarossa-cafe"
+      "link": "http://www.atlasvisual.com/crete-chania-cafes/barbarossa-cafe",
+      "image":"/avatarImages/coffees/barbarossa.jpg"
     },
     {
       "id": 28,
@@ -305,7 +332,8 @@
       "desc": "Cafe",
       "address": "Στρ. Τζανακάκη",
       "city": "CHQ",
-      "link": "https://kiposcafe.gr/"
+      "link": "https://kiposcafe.gr/",
+      "image":"/avatarImages/coffees/khpos.jpg"
     },
     {
       "id": 29,
@@ -316,7 +344,8 @@
       "desc": "Cafe",
       "address": "Κυδωνίας 42, Χανιά 731 35",
       "city": "CHQ",
-      "link": ""
+      "link": "",
+      "image":"/avatarImages/coffees/escobar.jpg"
     },
     {
       "id": 30,
@@ -327,7 +356,8 @@
       "desc": "Cafe",
       "address": "Κονδυλάκη 26",
       "city": "CHQ",
-      "link": "https://tomprikaki.business.site/"
+      "link": "https://tomprikaki.business.site/",
+      "image":"/avatarImages/coffees/tomprikaki.jpg"
     },
     {
       "id": 31,
@@ -338,7 +368,8 @@
       "desc": "Cafe-Bar",
       "address": "Κούνδουρου 6",
       "city": "AGN",
-      "link": "http://molo.gr/"
+      "link": "http://molo.gr/",
+      "image":"/avatarImages/coffees/molo.jpg"
     },
     {
       "id": 32,
@@ -349,7 +380,8 @@
       "desc": "Cafe",
       "address": "Ρούσου Καπετανάκη, Φιλελλήνων 8",
       "city": "AGN",
-      "link": ""
+      "link": "",
+      "image":"/avatarImages/coffees/tokafedaki.jpg"
     },
     {
       "id": 33,
@@ -360,7 +392,8 @@
       "desc": "Cafe",
       "address": "Νικ. Πλαστήρα 18",
       "city": "AGN",
-      "link": "https://www.facebook.com/AnoKatoCafe/"
+      "link": "https://www.facebook.com/AnoKatoCafe/",
+      "image":"/avatarImages/coffees/anokato.jpg"
     },
     {
       "id": 34,
@@ -371,7 +404,8 @@
       "desc": "Cafe-Bar",
       "address": "Ακτή Πάπα Νικολάου Πάγκαλου 8",
       "city": "AGN",
-      "link": "https://www.facebook.com/palazzocafebar/"
+      "link": "https://www.facebook.com/palazzocafebar/",
+      "image":"/avatarImages/coffees/palazzo.jpg"
     },
     {
       "id": 35,
@@ -382,7 +416,8 @@
       "desc": "Cafe",
       "address": "Ανδρέα Παπανδρέου 62",
       "city": "AGN",
-      "link": ""
+      "link": "",
+      "image":"/avatarImages/coffees/entrance.jpg"
     },
     {
       "id": 36,
@@ -393,7 +428,8 @@
       "desc": "Cafe",
       "address": "Καντανολέοντος 14-16",
       "city": "AGN",
-      "link": "https://www.arodocafebar.com/"
+      "link": "https://www.arodocafebar.com/",
+      "image":"/avatarImages/coffees/adoro.jpg"
     },
     {
       "id": 37,
@@ -404,7 +440,8 @@
       "desc": "Cafe",
       "address": "2, Εθ. Αντιστάσεως 1",
       "city": "AGN",
-      "link": "https://www.instagram.com/explore/locations/51982248/zygos-urbangarden-coffee-food/"
+      "link": "https://www.instagram.com/explore/locations/51982248/zygos-urbangarden-coffee-food/",
+      "image":"/avatarImages/coffees/zygos.jpg"
     },
     {
       "id": 38,
@@ -415,7 +452,8 @@
       "desc": "Cafe-Bar",
       "address": "Νικ. Πλαστήρα 1",
       "city": "AGN",
-      "link": "https://m.facebook.com/piazzaalldaycafebar/"
+      "link": "https://m.facebook.com/piazzaalldaycafebar/",
+      "image":"/avatarImages/coffees/piazza.jpg"
     },
     {
       "id": 39,
@@ -426,7 +464,8 @@
       "desc": "Cafe",
       "address": "Ακτή Ν. Πάγκαλου 10",
       "city": "AGN",
-      "link": ""
+      "link": "https://el-gr.facebook.com/BuenoCafeAgnc/",
+      "image":"/avatarImages/coffees/bueno.jpg"
     },
     {
       "id": 40,
@@ -437,6 +476,7 @@
       "desc": "Cafe",
       "address": "Ιωσηφ ΚΟΥΝΔΟΥΡΟΥ 1",
       "city": "AGN",
-      "link": "https://b-m.facebook.com/Liontis1975/"
+      "link": "https://b-m.facebook.com/Liontis1975/",
+      "image":"/avatarImages/coffees/bolero.jpg"
     }
   ]

@@ -8,8 +8,8 @@
       "desc": "Cocktail Bar",
       "address": "Αρκολεων 13",
       "city": "HER",
-      "link": "http://www.swingthing.gr/gallery",
-      "image": "/cities/Ag.Nikolaos.jpg"
+      "link": "http://www.swingthing.gr/",
+      "image": "/avatarImages/bars/swingthing.jpg"
     },
     {
       "id":   2,
@@ -21,7 +21,7 @@
       "address": "3 Καπετάν Χαραλάμπη",
       "city": "HER",
       "link": "https://el-gr.facebook.com/opuswbc/",
-      "image": "/cities/Heraklion.png"
+      "image": "/avatarImages/bars/opus.jpg"
     },
     {
       "id": 3,
@@ -33,7 +33,7 @@
       "address": "Μιλάτου 10",
       "city": "HER",
       "link": "http://www.xalavro.gr/",
-      "image": "/cities/Rethymno.png"
+      "image": "/avatarImages/bars/xalavro.jpg"
     },
     {
       "id":  4,
@@ -44,8 +44,8 @@
       "desc":  "Cocktail Bar",
       "address": "Κοραή 14",
       "city": "HER",
-      "link": "",
-      "image": "/cities/Chania.jpg"
+      "link": "https://www.facebook.com/StoneCocktailBar/",
+      "image": "/avatarImages/bars/stone.jpg"
     },
     {
       "id": 5,
@@ -56,7 +56,8 @@
       "desc": "Cocktail Bar",
       "address": " Ίδης 25",
       "city": "HER",
-      "link": ""
+      "link": "https://el-gr.facebook.com/TheBittersBar",
+      "image":"/avatarImages/bars/bitters.jpg"
     },
     {
       "id": 6,
@@ -67,7 +68,8 @@
       "desc": "Bar",
       "address": "Αγιοστεφανιτών 19,",
       "city": "HER",
-      "link": ""
+      "link": "",
+      "image":"/avatarImages/bars/jailhouse.jpg"
     },
     {
       "id": 7,
@@ -78,7 +80,8 @@
       "desc": "Cocktail Bar",
       "address": "Κοραή 7-9",
       "city": "HER",
-      "link": "https://m.facebook.com/wetsanddrys/"
+      "link": "https://m.facebook.com/wetsanddrys/",
+      "image":"/avatarImages/bars/wetsanddrys.jpg"
     },
     {
       "id": 8,
@@ -89,7 +92,8 @@
       "desc": "Bar",
       "address": "Μεραμβέλλου 8,",
       "city": "HER",
-      "link": "https://www.historical-museum.gr/"
+      "link": "https://el-gr.facebook.com/pages/Tita-Mpriki/221558247858809",
+      "image":"/avatarImages/bars/titampriki.jpg"
     },
     {
       "id": 9,
@@ -100,7 +104,8 @@
       "desc": "Bar-Restaurant",
       "address": "Παπαγιαμαλή, Πλ. Αγίου Τίτου 03",
       "city": "HER",
-      "link": "https://dishbar.gr/reservations/"
+      "link": "https://dishbar.gr/reservations/",
+      "image":"/avatarImages/bars/dish.jpg"
     },
     {
       "id": 10,
@@ -111,7 +116,8 @@
       "desc": "Bar",
       "address": "Ψαρομηλίγκων 9-11,",
       "city": "HER",
-      "link": ""
+      "link": "https://el-gr.facebook.com/PolytechneioKaFeMpar",
+      "image":"/avatarImages/bars/polytexneio.jpg"
     },
     {
       "id": 11,
@@ -122,7 +128,8 @@
       "desc": "Bar",
       "address": "Χίου 12",
       "city": "RETH",
-      "link": "https://bajabeach.gr/"
+      "link": "https://bajabeach.gr/",
+      "image":"/avatarImages/bars/baja.jpg"
     },
     {
       "id": 12,
@@ -133,7 +140,8 @@
       "desc": "Bar",
       "address": "Δασκαλάκη 1",
       "city": "RETH",
-      "link": "https://theroofreth.wixsite.com/roof"
+      "link": "https://theroofreth.wixsite.com/roof",
+      "image":"/avatarImages/bars/roof.jpg"
     },      
     {
       "id": 13,
@@ -144,7 +152,8 @@
       "desc": "Bar",
       "address": "Άρη Βελουχιώτη 42",
       "city": "RETH",
-      "link": "https://www.facebook.com/boraborareth/"
+      "link": "https://www.facebook.com/boraborareth/",
+      "image":"/avatarImages/bars/borabora.jpg"
     },
     {
       "id": 14,
@@ -155,7 +164,8 @@
       "desc": "Bar",
       "address": "Ελ.Βενιζέλου 52",
       "city": "RETH",
-      "link": "https://www.facebook.com/Chaplinspubcafe-408169002597884/"
+      "link": "https://www.facebook.com/Chaplinspubcafe-408169002597884/",
+      "image":"/avatarImages/bars/chaplins.jpg"
     },
     {
       "id": 15,
@@ -166,7 +176,8 @@
       "desc": "Cafe-Bar",
       "address": "Ελ.Βενιζέλου 5",
       "city": "RETH",
-      "link": "https://livingroom.gr/"
+      "link": "https://livingroom.gr/",
+      "image":"/avatarImages/bars/livingroom.jpg"
     },
     {
       "id": 16,
@@ -177,7 +188,8 @@
       "desc": "Club",
       "address": "Ι. Πετιχάκη 6",
       "city": "RETH",
-      "link": ""
+      "link": "https://el-gr.facebook.com/minibar.rethymno",
+      "image":"/avatarImages/bars/minibar.jpg"
     },
     {
       "id": 17,
@@ -188,7 +200,8 @@
       "desc": "Club",
       "address": "Σαλαμίνος 22",
       "city": "RETH",
-      "link": ""
+      "link": "https://el-gr.facebook.com/ice.rethimno/",
+      "image":"/avatarImages/bars/ice.jpg"
     },
     {
       "id": 18,
@@ -199,7 +212,8 @@
       "desc": "Bar-Restaurant",
       "address": "Ακρωτηρίου 13",
       "city": "RETH",
-      "link": "https://cavorethymno.gr/"
+      "link": "https://cavorethymno.gr/",
+      "image":"/avatarImages/bars/cavo.jpg"
     },
     {
       "id": 19,
@@ -210,7 +224,8 @@
       "desc": "Bar-Cafe",
       "address": "Τζανέ Μπουνιαλή 65",
       "city": "RETH",
-      "link": "https://m.facebook.com/alivafis/?locale2=el_GR"
+      "link": "https://m.facebook.com/alivafis/?locale2=el_GR",
+      "image":"/avatarImages/bars/khposalhvafh.jpg"
     },
     {
       "id": 20,
@@ -221,7 +236,8 @@
       "desc": "Bar",
       "address": "Ελεϋθερίου Βενιζέλου 11",
       "city": "RETH",
-      "link": "https://queensroom.gr/en/"
+      "link": "https://queensroom.gr/en/",
+      "image":"/avatarImages/bars/queens.jpg"
     },
     {
       "id": 21,
@@ -232,7 +248,8 @@
       "desc": "Jazz-Bar",
       "address": "Αγγέλου 16",
       "city": "CHQ",
-      "link": "https://de-de.facebook.com/Fagotto-Jazz-Bar-Chania-508196042653755/"
+      "link": "https://de-de.facebook.com/Fagotto-Jazz-Bar-Chania-508196042653755/",
+      "image":"/avatarImages/bars/fagoto.jpg"
     },
     {
       "id": 22,
@@ -243,7 +260,8 @@
       "desc": "Bar-Irish Pub",
       "address": "Πλ. Κατεχάκη",
       "city": "CHQ",
-      "link": ""
+      "link": "",
+      "image":""
     },
     {
       "id": 23,
@@ -254,7 +272,8 @@
       "desc": "Bar",
       "address": "Ακτή Κουντουριώτη 3",
       "city": "CHQ",
-      "link": "https://avalon-rock-pub-chania.business.site/"
+      "link": "https://avalon-rock-pub-chania.business.site/",
+      "image":"/avatarImages/bars/avalon.jpg"
     },
     {
       "id": 24,
@@ -265,18 +284,20 @@
       "desc": "Bar",
       "address": "Κανεβάρο 17-19",
       "city": "CHQ",
-      "link": ""
+      "link": "https://el-gr.facebook.com/pages/%CE%AD%CF%80%CE%B5%CE%B1-%CF%80%CF%84%CE%B5%CF%81%CF%8C%CE%B5%CE%BD%CF%84%CE%B1/278526555507527",
+      "image":"/avatarImages/bars/epea.jpg"
     },
     {
       "id": 25,
-      "lat": 35.51713980418393,        
-      "lng": 24.018206592462555,
+      "lat": 35.51423550461903,         
+      "lng": 24.01677739954711,
       "type": "BAR",
-      "name": "ROOM",
+      "name": "Senso",
       "desc": "club",
-      "address": "Σουρμελής 14",
+      "address": "Ενετική Τάφρος",
       "city": "CHQ",
-      "link": ""
+      "link": "https://el-gr.facebook.com/senso.chania.7",
+      "image":"/avatarImages/bars/senso.jpg"
     },
     {
       "id": 26,
@@ -287,7 +308,8 @@
       "desc": "Cocktail-Bar",
       "address": "Χατζιμιχαλη Νταλιάνη 22",
       "city": "CHQ",
-      "link": "https://www.facebook.com/%CE%A4%CE%BF-%CE%9C%CE%BF%CE%BD%CE%B1%CF%83%CF%84%CE%AE%CF%81%CE%B9-%CF%84%CE%BF%CF%85-%CE%9A%CE%B1%CF%81%CF%8C%CE%BB%CE%BF%CF%85-The-Monastery-of-Karolos-374272224322/"
+      "link": "https://www.facebook.com/%CE%A4%CE%BF-%CE%9C%CE%BF%CE%BD%CE%B1%CF%83%CF%84%CE%AE%CF%81%CE%B9-%CF%84%CE%BF%CF%85-%CE%9A%CE%B1%CF%81%CF%8C%CE%BB%CE%BF%CF%85-The-Monastery-of-Karolos-374272224322/",
+      "image":"/avatarImages/bars/monastirikarolou.jpg"
     },
     {
       "id": 27,
@@ -298,7 +320,8 @@
       "desc": "Cocktail-Bar",
       "address": "Κανεβάρο 7A",
       "city": "CHQ",
-      "link": ""
+      "link": "",
+      "image":"/avatarImages/bars/peacock.jpg"
     },
     {
       "id": 28,
@@ -309,7 +332,8 @@
       "desc": "Club",
       "address": "Σουρμελής 6",
       "city": "CHQ",
-      "link": ""
+      "link": "",
+      "image":"/avatarImages/bars/dna.jpg"
     },
     {
       "id": 29,
@@ -320,7 +344,8 @@
       "desc": "Bar",
       "address": "Σουρμελής 2",
       "city": "CHQ",
-      "link": "https://www.instagram.com/klikbar_chania/?utm_source=ig_profile_share&igshid=1kkwwai2acz0z"
+      "link": "https://www.instagram.com/klikbar_chania/?utm_source=ig_profile_share&igshid=1kkwwai2acz0z",
+      "image":"/avatarImages/bars/klik.jpg"
     },
     {
       "id": 30,
@@ -331,7 +356,8 @@
       "desc": "Cocktail-Bar",
       "address": "Παρ. Κονδυλάκη",
       "city": "CHQ",
-      "link": ""
+      "link": "",
+      "image":"/avatarImages/bars/synagwgi.jpg"
     },
     {
       "id": 31,
@@ -342,7 +368,8 @@
       "desc": "Bar-Irish Pub",
       "address": "M, Σφακιανάκη 7",
       "city": "AGN",
-      "link": ""
+      "link": "",
+      "image":"/avatarImages/bars/rob'scorner.jpg"
     },
     {
       "id": 32,
@@ -353,7 +380,8 @@
       "desc": "Bar-Club",
       "address": "25ης Μαρτίου 8",
       "city": "AGN",
-      "link": "https://el-gr.facebook.com/ellinadiko-224439684235410/"
+      "link": "https://el-gr.facebook.com/ellinadiko-224439684235410/",
+      "image":"/avatarImages/bars/ellinadiko.jpg"
     },
     {
       "id": 33,
@@ -364,7 +392,8 @@
       "desc": "Rock Bar",
       "address": "Κούνδουρου 3, Αγ. Νικόλαος 721 00",
       "city": "AGN",
-      "link": "https://www.facebook.com/yannisrockbar/?rf=254075391276955"
+      "link": "https://www.facebook.com/yannisrockbar/?rf=254075391276955",
+      "image":"/avatarImages/bars/yannis.jpg"
     },
     {
       "id": 34,
@@ -375,7 +404,8 @@
       "desc": "Cocktail Bar",
       "address": "3, Κονδυλάκη 1",
       "city": "AGN",
-      "link": "https://www.facebook.com/alexandrosroofgarden/"
+      "link": "https://www.facebook.com/alexandrosroofgarden/",
+      "image":"/avatarImages/bars/alexandrosroof.jpg"
     },
     {
       "id": 35,
@@ -386,7 +416,8 @@
       "desc": "Bar-cafe",
       "address": "28ης Οκτωβρίου 25",
       "city": "AGN",
-      "link": "https://www.facebook.com/peripoulivemusicbar/"
+      "link": "https://www.facebook.com/peripoulivemusicbar/",
+      "image":"/avatarImages/bars/peripou.jpg"
     },
     {
       "id": 36,
@@ -397,7 +428,8 @@
       "desc": "bar-cafe",
       "address": "28ης Οκτωβρίου 17",
       "city": "AGN",
-      "link": "https://www.facebook.com/dulaccafebar/"
+      "link": "https://www.facebook.com/dulaccafebar/",
+      "image":"/avatarImages/bars/dulac.jpg"
     },
     {
       "id": 37,
@@ -408,7 +440,8 @@
       "desc": "Bar",
       "address": "Ακτή Κούνδουρου 7, Καντανολέοντος 23",
       "city": "AGN",
-      "link": "https://www.facebook.com/AquariusCrete/"
+      "link": "https://www.facebook.com/AquariusCrete/",
+      "image":"/avatarImages/bars/aquarius.jpg"
     },
     {
       "id": 38,
@@ -419,6 +452,7 @@
       "desc": "Cocktail Bar-Cafe",
       "address": "Σαρολίδη 1",
       "city": "AGN",
-      "link": ""
+      "link": "",
+      "image":"/avatarImages/bars/bajamar.jpg"
     }
   ]

@@ -1,42 +1,32 @@
 import React from "react"
 import "./styles.css"
 import Photo from "../../assets/me.png"
-import rethymno from "../../assets/cities/Rethymno.png"
 
 function AboutPage() {
   return (
-    <div className={"AboutPage"}>
-      <div className="top">
-        <img src={Photo} alt="Egw" />
+    <>
+      <div className="AboutPage">
+        <div>
+          <img src={Photo} alt="Egw" /> </div>
+          <div className="top">
+            <p>
+              Ονομάζομαι <strong class="strong-n">Βογιατζής Γεώργιος</strong> και η
+              πτυχιακή μου εργασία αφορά έναν πλήρη τουριστικό οδηγό της Κρήτης
+            </p>
+          </div>
+      </div>
+      <div classname="bot">
         <p>
-          Ονομάζομαι <strong class="strong-n">Βογιατζής Γεώργιος</strong> και η
-          πτυχιακή μου εργασία αφορά έναν πλήρη τουριστικό οδηγό της Κρήτης
+          Σε αυτόν τον τουριστικό οδηγό μπορείτε να βρείτε κάποια προτεινόμενα σημεία ενδιαφέροντος για κάθε μία πόλη της Κρήτης, όπως:
+          <li>Αξιοθέατα</li>
+          <li>Εστιατόρια</li>
+          <li>Καφετέριες</li>
+          <li>Μπαρ</li>
+          <li>Ξενοδοχεία</li>
+          <li>Παραλίες</li>
         </p>
       </div>
-
-      <div className="bottom">
-        <img src={rethymno} class="botPhoto" alt="rethymno" />
-        <div className="bottom-p">
-          <p>
-            Τα εργαλεια που θα χρησιποποιήσω για την διεκπεραίωση της πτυχιακής
-            εργασίας είναι τα εξής:
-          </p>
-          <div className="bottom-erg">
-            <ul>
-              <a href="https://code.visualstudio.com//">
-                <li>Vs Code(Visual Studio Code)</li>
-              </a>
-              <a href="https://reactjs.org/docs/getting-started.html">
-                <li>React</li>
-              </a>
-              <a href="https://reacttraining.com/react-router">
-                <li>React-router</li>
-              </a>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
+    </>
   )
 }
 
