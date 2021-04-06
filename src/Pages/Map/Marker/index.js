@@ -25,11 +25,8 @@ const Balloon = ({ marker }) => (
     <div className="marker_ballonName">
       <strong>{marker.name}</strong>
     </div>
-    <ShowMoreText lines={2} more="Show More" less="Show Less" expanded={false}>
       {marker.desc}
-    </ShowMoreText>
-
-    <div className="marker_link_wrapper">
+     <div className="marker_link_wrapper">
       Για περισσοτερες πληροφοριες
       <a href={marker.link} target="_blank" rel="noopener noreferrer">
         πατήστε εδω

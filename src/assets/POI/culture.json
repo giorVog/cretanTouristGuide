@@ -10,7 +10,6 @@
     "city": "HER",
     "link": "https://www.nhmc.uoc.gr/",
     "image":""
-    
   },
   {
     "id": 2,
@@ -22,7 +21,7 @@
     "address": "Κνωσσός",
     "city": "HER",
     "link": "https://www.gtp.gr/TDirectoryDetails.asp?ID=14729&lng=1",
-    "image":""
+    "image":"/avatarImages/culture/knossos.jpg"
   },
   {
     "id": 3,
@@ -46,7 +45,7 @@
     "address": " Αγίου Μήνα",
     "city": "HER",
     "link": "https://el.wikipedia.org/wiki/%CE%9A%CE%B1%CE%B8%CE%B5%CE%B4%CF%81%CE%B9%CE%BA%CF%8C%CF%82_%CE%9D%CE%B1%CF%8C%CF%82_%CE%91%CE%B3%CE%AF%CE%BF%CF%85_%CE%9C%CE%B7%CE%BD%CE%AC",
-    "image":""
+    "image":"/avatarImages/culture/agiosmhnas.jpg"
   },
   {
     "id": 5,
@@ -58,7 +57,7 @@
     "address": " Πλατεία Αγίου Τίτου",
     "city": "HER",
     "link": "https://el.wikipedia.org/wiki/%CE%9D%CE%B1%CF%8C%CF%82_%CF%84%CE%BF%CF%85_%CE%91%CE%B3%CE%AF%CE%BF%CF%85_%CE%A4%CE%AF%CF%84%CE%BF%CF%85_(%CE%97%CF%81%CE%AC%CE%BA%CE%BB%CE%B5%CE%B9%CE%BF)",
-    "image":""
+    "image":"/avatarImages/culture/agiostitos.jpg"
   },
   {
     "id": 6,
@@ -70,7 +69,7 @@
     "address": "Ηράκλειο ",
     "city": "HER",
     "link": "http://koules.efah.gr/koules/Page?name=index&lang=gr",
-    "image":""
+    "image":"/avatarImages/culture/koules.jpg"
   },
   {
     "id": 7,
@@ -106,7 +105,7 @@
     "address": "Πλ. Ελ. Βενιζέλου",
     "city": "HER",
     "link": "https://www.explorecrete.com/Heraklion/GR04-Heraklion-lions-square.html",
-    "image":""
+    "image":"/avatarImages/culture/liontaria.jpg"
   },
   {
     "id": 10,
@@ -118,7 +117,7 @@
     "address": "Οδός 25ης Αυγούστου",
     "city": "HER",
     "link": "https://el.wikipedia.org/wiki/%CE%9B%CF%8C%CF%84%CE%B6%CE%B9%CE%B1_(%CE%97%CF%81%CE%AC%CE%BA%CE%BB%CE%B5%CE%B9%CE%BF)",
-    "image":""
+    "image":"/avatarImages/culture/lotzia.jpg"
   },
   {
     "id": 11,
@@ -130,7 +129,7 @@
     "address": "Μαυροκορδάτου Αλέξανδρου",
     "city": "RETH",
     "link": "https://www.rethymno.gr/city/Rimondi/rimondi.html",
-    "image":""
+    "image":"/avatarImages/culture/rimondi.jpg"
     
   },
   {
@@ -155,7 +154,7 @@
     "address": "Ρέθυμνο",
     "city": "RETH",
     "link": "http://www.rethimno.gr/el/pages/fortezza.php?sub=fortezza",
-    "image":""
+    "image":"/avatarImages/culture/fortetza.jpg"
   },
   {
     "id": 14,
@@ -191,7 +190,7 @@
     "address": "",
     "city": "RETH",
     "link": "https://el.wikipedia.org/wiki/%CE%9C%CE%BF%CE%BD%CE%AE_%CE%91%CF%81%CE%BA%CE%B1%CE%B4%CE%AF%CE%BF%CF%85",
-    "image":""
+    "image":"/avatarImages/culture/arkadi.jpg"
   },
   {
     "id": 17,
@@ -203,7 +202,7 @@
     "address": "Γερακάρη 6",
     "city": "RETH",
     "link": "https://www.imra.gr/naos-tessaron-marturon.html",
-    "image":""
+    "image":"/avatarImages/culture/martures.jpg"
   },
   {
     "id": 18,
@@ -298,8 +297,8 @@
     "desc": "Ο Ιερός Ναός Αγίου Νικολάου είναι χριστιανικός ναός αφιερωμένος στον Άγιο Νικόλαο που βρίσκεται στη πλατεία της Σπλάντζιας των Χανίων. Χτίστηκε γύρω στα 1320 ως καθολικό μονής από την αδελφότητα της Μονής του Αγίου Πέτρου των Δομινικανών του Χάνδακα. Αρχιτεκτονικά ακολουθεί τον τύπο της ξυλόστεγης βασιλικής με εγκάρσιο κλίτος",
     "address": "Ρούσου Βουρδουμπά 5, Χανιά 731 32",
     "city": "CHQ",
-    "link": "https://el.wikipedia.org/wiki/%CE%99%CE%B5%CF%81%CF%8C%CF%82_%CE%9D%CE%B1%CF%8C%CF%82_%CE%91%CE%B3%CE%AF%CE%BF%CF%85_%CE%9D%CE%B9%CE%BA%CE%BF%CE%BB%CE%AC%CE%BF%CF%85_(%CE%A3%CF%80%CE%BB%CE%AC%CE%BD%CF%84%CE%B6%CE%B9%CE%B1_%CE%A7%CE%B1%CE%BD%CE%AF%CF%89%CE%BD)",
-    "image":""
+    "link": "https://el.wikipedia.org/wiki/%CE%99%CE%B5%CF%81%CF%8C%CF%82_%CE%9D%CE%B1%CF%8C%CF%82_%CE%91%CE%B3%CE%AF%CE%BF%CF%85_%CE%9D%CE%B9%CE%BA%CE%BF%CE%BB%CE%AC%CE%BF%CF%85_(%CE%A3%CF%80%CE%BB%CE%AC%CE%BD%CF%84%CE%B6%CE%B9%CE%B1_%CE%A7%CE%B1%CE%BD%CE%AF%CF%89%CE%BD)"
+   
   },
   {
     "id": 26,
@@ -310,8 +309,9 @@
     "desc": "Ιερά Μονή Χρυσοπηγής (Χανιά). Η Ιερά Μονή της Ζωοδόχου Πηγής ή Χρυσοπηγής ιδρύθηκε στα τέλη του 16ου αιώνα από τον γιατρό Ιωάννη Χαρτοφύλακα, σε χώρο όπου λειτουργούσε ήδη ένα μικρό μοναστήρι.",
     "address": "Πατριαρχου Βαρθολομαιου",
     "city": "CHQ",
-    "link": "https://el.wikipedia.org/wiki/%CE%99%CE%B5%CF%81%CE%AC_%CE%9C%CE%BF%CE%BD%CE%AE_%CE%A7%CF%81%CF%85%CF%83%CE%BF%CF%80%CE%B7%CE%B3%CE%AE%CF%82_(%CE%A7%CE%B1%CE%BD%CE%B9%CE%AC)"
-  },
+    "link": "https://el.wikipedia.org/wiki/%CE%99%CE%B5%CF%81%CE%AC_%CE%9C%CE%BF%CE%BD%CE%AE_%CE%A7%CF%81%CF%85%CF%83%CE%BF%CF%80%CE%B7%CE%B3%CE%AE%CF%82_(%CE%A7%CE%B1%CE%BD%CE%B9%CE%AC)",
+    "image":"/avatarImages/culture/xrusophgh.jpg"  
+},
   {
     "id": 27,
     "lat": 35.51911252908253,     
@@ -322,7 +322,7 @@
     "address": "Χανιά 731 31",
     "city": "CHQ",
     "link": "https://greece.terrabook.com/el/chania/page/frourio-firka/",
-    "image":""
+    "image":"/avatarImages/culture/firka.jpg"
   },
   {
     "id": 28,
@@ -346,7 +346,7 @@
     "address": "Σουρμελής 18",
     "city": "CHQ",
     "link": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%B1%CE%BB%CE%AF_%CE%A4%CE%B6%CE%B1%CE%BC%CE%AF",
-    "image":""
+    "image":"/avatarImages/culture/tzami.jpg"
   },
   {
     "id": 30,
@@ -430,7 +430,7 @@
     "address": "",
     "city": "AGN",
     "link": "http://www.visitgreece.gr/el/greek_islands/crete/spinalonga",
-    "image":""
+    "image":"/avatarImages/culture/spinaloga.jpg"
   },
   {
     "id": 37,
@@ -466,7 +466,7 @@
     "address": "Ρούσσου Καπετανάκη 7",
     "city": "AGN",
     "link": "https://www.explorecrete.com/crete-east/GR-agios-nikolaos-limni.html",
-    "image":""
+    "image":"/avatarImages/culture/limnh.jpg"
   },
   {
     "id": 40,
