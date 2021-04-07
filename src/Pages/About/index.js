@@ -1,10 +1,12 @@
 import React from "react"
 import "./styles.css"
 import Photo from "../../assets/me.png"
+import fonto from "../../assets/fonto.jpg"
 
 function AboutPage() {
   return (
-    <>
+    <div className="fonto">
+      <img className="fonto-img" src={fonto} alt=""></img>
       <div className="AboutPage">
         <div>
           <img src={Photo} alt="Egw" />
@@ -55,7 +57,7 @@ function AboutPage() {
           </ul>
         </div>
       </div>
-    </>
+    </div>
   )
 }
 

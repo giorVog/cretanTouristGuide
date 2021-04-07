@@ -1,4 +1,16 @@
+.fonto{
+    overflow: hidden;
+    position: relative;
+    background-size: cover;
+}
+
+.fonto-img{
+    opacity: 0.4;
+    position: absolute;
+    width: 100%;
+}
 .AboutPage {
+    position: relative;
     display: flex;
     width: 100%;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
@@ -25,7 +37,7 @@
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: bold;
-    color:lightgray;
+    color:black;
 }
 
 .info_section_list{
@@ -35,7 +47,7 @@
 }
 
 .info_section_list:hover{
-    color:royalblue;
+    color:white;
 }
 
 .info_section_title{
@@ -70,7 +82,7 @@ a:hover {
   }
 u:hover
 {
-    color: royalblue;
+    color: white;
     cursor: pointer;
 }
 .strong-n {
