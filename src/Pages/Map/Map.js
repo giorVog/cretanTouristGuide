@@ -133,7 +133,7 @@ const SimpleMap = () => {
     if (selectedPOI) {
       setMapFocus({
         center: { lat: selectedPOI.lat, lng: selectedPOI.lng },
-        zoom: 20
+        zoom: 18
       })
       setMarkerKeyClicked(`${selectedPOI.type}_${selectedPOI.id}`)
     }

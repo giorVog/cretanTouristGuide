@@ -73,7 +73,7 @@
 }
 
 .info_section_list:hover{
-    color:white;
+    color:royalblue;
 }
 
 .info_section_title{
@@ -108,7 +108,7 @@ a:hover {
   }
 u:hover
 {
-    color: white;
+    color: royalblue;
     cursor: pointer;
 }
 .strong-n {

@@ -135,8 +135,8 @@ export default function Pages() {
             })}>
             <MenuIcon />
           </IconButton>
-          <Typography variant="h6" noWrap>
-            Cretan Tourist Guide
+          <Typography variant="h5" noWrap>
+            Τουριστικός Οδηγός Κρήτης
           </Typography>
         </Toolbar>
       </AppBar>
